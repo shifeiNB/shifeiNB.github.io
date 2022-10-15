@@ -140,7 +140,11 @@
 <div class="post-toc" style="position: absolute; top: 188px;">
     <h2 class="post-toc-title">文章目录</h2>
     <div class="post-toc-content">
-        <nav id="TableOfContents"></nav>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#21先创建gitignore文件并输入public告诉当前这个仓库不要存储它">2.1先创建.gitignore文件并输入/public/，告诉当前这个仓库不要存储它。</a></li>
+  </ul>
+</nav>
     </div>
 </div>
 <script type="text/javascript">
@@ -191,6 +195,8 @@
         
         <div class="post-content">
             <p><a href="http://events.jianshu.io/p/b8d1b6b118c9">访问</a></p>
+<p>[TOC]</p>
+<h1 id="1初始化">1.初始化</h1>
 <div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 <table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
 <pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
@@ -233,8 +239,8 @@
 </span></span><span style="display:flex;"><span>hugo -D   //构成静态页面
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>然后将public里面的文件上传到自己的github首页仓库</p>
-<p>先创建.gitignore文件并输入/public/，告诉当前这个仓库不要存储它。</p>
+</div><h1 id="2然后将public里面的文件上传到自己的github首页仓库">2.然后将public里面的文件上传到自己的github首页仓库</h1>
+<h2 id="21先创建gitignore文件并输入public告诉当前这个仓库不要存储它">2.1先创建.gitignore文件并输入/public/，告诉当前这个仓库不要存储它。</h2>
 <div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 <table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
 <pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
@@ -275,7 +281,7 @@
 </span></span><span style="display:flex;"><span>git push origin master
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>执行如下命令，就可以本地运行站点了。</p>
+</div><h1 id="3执行如下命令就可以本地运行站点了">3.执行如下命令，就可以本地运行站点了。</h1>
 <div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 <table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
 <pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
@@ -296,6 +302,15 @@
 </span></span><span style="display:flex;"><span>title = &#34;MyBlog&#34;
 </span></span><span style="display:flex;"><span>theme = &#34;hugo-notepadium&#34;
 </span></span><span style="display:flex;"><span>copyright = &#34;©2020 my name.&#34;
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h1 id="4直接一步提交到git">4.直接一步提交到git</h1>
+<div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span><span style="color:#0086b3">cd</span> public <span style="color:#000;font-weight:bold">&amp;&amp;</span> git add . <span style="color:#000;font-weight:bold">&amp;&amp;</span> git commit -m <span style="color:#d14">&#34;go&#34;</span> <span style="color:#000;font-weight:bold">&amp;&amp;</span> git push
 </span></span></code></pre></td></tr></table>
 </div>
 </div>
