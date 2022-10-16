@@ -1,146 +1,187 @@
-<!doctype html>
-<html lang="zh-CN">
-<head>
-
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
+  <head>
+    
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <meta name="referrer" content="no-referrer-when-downgrade">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+    <meta name="robots" content="noodp" />
+    <title>Hello - wlcome to my Blog ,thank you the world</title><meta name="author" content="fish">
+<meta name="author-link" content="">
+<meta name="description" content="访问
+[TOC]
+1.初始化 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 hugo new site quickstart //创建项目 cd quickstart git init //下载主题包 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke //配置主题 echo &#39;theme = &#34;maupassant&#34;&#39; &gt;&gt; config.toml //创建一个网页 博客 hugo new posts/my-first-post.md hugo server --theme=maupassant --buildDrafts //本地浏览 hugo server -D hugo -D //构成静态页面 2.然后将public里面的文件上传到自己的github首页仓库 2.1先创建.gitignore文件并输入/public/，告诉当前这个仓库不要存储它。 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 # 初始化仓库 git init # 将所有内容添加到git git add ." /><meta name="keywords" content='hugo' /><meta itemprop="name" content="Hello">
+<meta itemprop="description" content="访问
+[TOC]
+1.初始化 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 hugo new site quickstart //创建项目 cd quickstart git init //下载主题包 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke //配置主题 echo &#39;theme = &#34;maupassant&#34;&#39; &gt;&gt; config.toml //创建一个网页 博客 hugo new posts/my-first-post.md hugo server --theme=maupassant --buildDrafts //本地浏览 hugo server -D hugo -D //构成静态页面 2.然后将public里面的文件上传到自己的github首页仓库 2.1先创建.gitignore文件并输入/public/，告诉当前这个仓库不要存储它。 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 # 初始化仓库 git init # 将所有内容添加到git git add ."><meta itemprop="datePublished" content="2022-10-16T01:33:35+08:00" />
+<meta itemprop="dateModified" content="2022-10-16T01:33:35+08:00" />
+<meta itemprop="wordCount" content="254">
+<meta itemprop="keywords" content="hugo," /><meta property="og:title" content="Hello" />
+<meta property="og:description" content="访问
+[TOC]
+1.初始化 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 hugo new site quickstart //创建项目 cd quickstart git init //下载主题包 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke //配置主题 echo &#39;theme = &#34;maupassant&#34;&#39; &gt;&gt; config.toml //创建一个网页 博客 hugo new posts/my-first-post.md hugo server --theme=maupassant --buildDrafts //本地浏览 hugo server -D hugo -D //构成静态页面 2.然后将public里面的文件上传到自己的github首页仓库 2.1先创建.gitignore文件并输入/public/，告诉当前这个仓库不要存储它。 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 # 初始化仓库 git init # 将所有内容添加到git git add ." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/hello/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-10-16T01:33:35+08:00" />
+<meta property="article:modified_time" content="2022-10-16T01:33:35+08:00" />
 
-    <title>Hello | wlcome to my Blog ,thank you the world</title>
-    <meta property="og:title" content="Hello - wlcome to my Blog ,thank you the world">
-    <meta property="og:type" content="article">
-        
-    <meta property="article:published_time" content='2022-10-16T01:33:35&#43;08:00'>
-        
-        
-    <meta property="article:modified_time" content='2022-10-16T01:33:35&#43;08:00'>
-        
-    <meta name="Keywords" content="flink">
-    <meta name="description" content="hello page">
-        <meta name="author" content="[fish]">
-        
-    <meta property="og:url" content="/posts/hello/">
-    <link rel="shortcut icon" href='/favicon.ico'  type="image/x-icon">
-
-    <link rel="stylesheet" href='/css/normalize.css'>
-    <link rel="stylesheet" href='/css/style.css'>
-    <script type="text/javascript" src="//cdn.bootcdn.net/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-
-    
-    
-    
-    
-    
-    
-        <link rel="stylesheet" href='/css/douban.css'>
-    
-        <link rel="stylesheet" href='/css/other.css'>
-    
-</head>
-
-<body>
-    <header id="header" class="clearfix">
-    <div class="container">
-        <div class="col-group">
-            <div class="site-name ">
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hello"/>
+<meta name="twitter:description" content="访问
+[TOC]
+1.初始化 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 hugo new site quickstart //创建项目 cd quickstart git init //下载主题包 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke //配置主题 echo &#39;theme = &#34;maupassant&#34;&#39; &gt;&gt; config.toml //创建一个网页 博客 hugo new posts/my-first-post.md hugo server --theme=maupassant --buildDrafts //本地浏览 hugo server -D hugo -D //构成静态页面 2.然后将public里面的文件上传到自己的github首页仓库 2.1先创建.gitignore文件并输入/public/，告诉当前这个仓库不要存储它。 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 # 初始化仓库 git init # 将所有内容添加到git git add ."/>
+<meta name="application-name" content="FixIt">
+<meta name="apple-mobile-web-app-title" content="FixIt"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="canonical" href="/posts/hello/" /><link rel="next" href="/posts/hugo/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Hello",
+    "inLanguage": "zh-CN",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "\/posts\/hello\/"
+    },"genre": "posts","keywords": "hugo","wordcount":  254 ,
+    "url": "\/posts\/hello\/","datePublished": "2022-10-16T01:33:35+08:00","dateModified": "2022-10-16T01:33:35+08:00","publisher": {
+      "@type": "Organization",
+      "name": ""},"author": {
+        "@type": "Person",
+        "name": "fish"
+      },"description": ""
+  }
+  </script></head>
+  <body data-header-desktop="sticky" data-header-mobile="auto"><script>(window.localStorage?.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('data-theme', 'dark');</script><div class="wrapper"><header class="desktop animate__faster" id="header-desktop">
+  <div class="header-wrapper">
+    <div class="header-title">
+      <a href="/" title="wlcome to my Blog ,thank you the world"><img
+    class="lazyload logo"
+    src="/svg/loading.min.svg"
+    data-src="/fixit.min.svg"
+    data-srcset="/fixit.min.svg, /fixit.min.svg 1.5x, /fixit.min.svg 2x"
+    data-sizes="auto"
+    alt="wlcome to my Blog ,thank you the world"
+    title="wlcome to my Blog ,thank you the world"/><span class="header-title-text">My New Hugo FixIt Site</span></a><span class="header-subtitle"></span></div>
+    <nav>
+      <ul class="menu"><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/posts"
                 
-                    <a id="logo" href="/">
-                        wlcome to my Blog ,thank you the world
-                    </a>
                 
-                <p class="description">things about bigdata</p>
-            </div>
-            <div>
-                <nav id="nav-menu" class="clearfix">
-                    <a class="current" href="/">首页</a>
-                    
-                    <a  href="/posts" title="📚文章">📚文章</a>
-                    
-                    <a  href="/about/" title="关于">关于</a>
-                    
-                    <a  href="/archives/" title="⏱时间轴">⏱时间轴</a>
-                    
-                </nav>
-            </div>
-        </div>
+              >📚文章</a></li><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/about/"
+                
+                
+              >关于</a></li><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/archives/"
+                
+                
+              >⏱时间轴</a></li><li class="menu-item delimiter"></li><li class="menu-item search" id="search-desktop">
+            <input type="text" placeholder="Search titles or contents ..." id="search-input-desktop">
+            <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
+              <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+            </a>
+            <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+              <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+            </a>
+            <span class="search-button search-loading" id="search-loading-desktop">
+              <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+            </span>
+          </li><li class="menu-item theme-switch" title="Switch Theme">
+          <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header><header class="mobile animate__faster" id="header-mobile">
+  <div class="header-container">
+    <div class="header-wrapper">
+      <div class="header-title">
+        <a href="/" title="wlcome to my Blog ,thank you the world"><img
+    class="lazyload logo"
+    src="/svg/loading.min.svg"
+    data-src="/fixit.min.svg"
+    data-srcset="/fixit.min.svg, /fixit.min.svg 1.5x, /fixit.min.svg 2x"
+    data-sizes="auto"
+    alt="/fixit.min.svg"
+    title="/fixit.min.svg"/><span class="header-title-text">My New Hugo FixIt Site</span></a><span class="header-subtitle"></span></div>
+      <div class="menu-toggle" id="menu-toggle-mobile">
+        <span></span><span></span><span></span>
+      </div>
     </div>
-</header>
+    <nav>
+      <ul class="menu" id="menu-mobile"><li class="search-wrapper">
+            <div class="search mobile" id="search-mobile">
+              <input type="text" placeholder="Search titles or contents ..." id="search-input-mobile">
+              <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
+                <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+              </a>
+              <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+              </a>
+              <span class="search-button search-loading" id="search-loading-mobile">
+                <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+              </span>
+            </div>
+            <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+              Cancel
+            </a>
+          </li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/posts"
+                  
+                  
+                >📚文章</a></li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/about/"
+                  
+                  
+                >关于</a></li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/archives/"
+                  
+                  
+                >⏱时间轴</a></li><li class="menu-item theme-switch" title="Switch Theme">
+          <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+        </li></ul>
+    </nav>
+  </div>
+</header><div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+  </div>
+  <div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+  </div><main class="container" data-page-style="normal"><aside class="toc" id="toc-auto"><h2 class="toc-title">Contents&nbsp;<i class="toc-icon fa-solid fa-angle-down fa-fw" aria-hidden="true"></i></h2>
+      <div class="toc-content" id="toc-content-auto"></div></aside>
 
-    <div id="body">
-        <div class="container">
-            <div class="col-group">
+  <aside class="aside-custom">
+    
+</aside>
 
-                <div class="col-8" id="main">
-                    
-<div class="res-cons">
-    <style type="text/css">
-    .post-toc {
-        position: fixed;
-        width: 200px;
-        margin-left: -210px;
-        padding: 5px 10px;
-        font-family: Athelas, STHeiti, Microsoft Yahei, serif;
-        font-size: 12px;
-        border: 1px solid rgba(0, 0, 0, .07);
-        border-radius: 5px;
-        background-color: rgba(255, 255, 255, 0.98);
-        background-clip: padding-box;
-        -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .125);
-        box-shadow: 1px 1px 2px rgba(0, 0, 0, .125);
-        word-wrap: break-word;
-        white-space: nowrap;
-        -webkit-box-sizing: border-box;
-        box-sizing: border-box;
-        z-index: 999;
-        cursor: pointer;
-        max-height: 70%;
-        overflow-y: auto;
-        overflow-x: hidden;
-    }
-
-    .post-toc .post-toc-title {
-        width: 100%;
-        margin: 0 auto;
-        font-size: 20px;
-        font-weight: 400;
-        text-transform: uppercase;
-        text-align: center;
-    }
-
-    .post-toc .post-toc-content {
-        font-size: 15px;
-    }
-
-    .post-toc .post-toc-content>nav>ul {
-        margin: 10px 0;
-    }
-
-    .post-toc .post-toc-content ul {
-        padding-left: 20px;
-        list-style: square;
-        margin: 0.5em;
-        line-height: 1.8em;
-    }
-
-    .post-toc .post-toc-content ul ul {
-        padding-left: 15px;
-        display: none;
-    }
-
-    @media print,
-    screen and (max-width:1057px) {
-        .post-toc {
-            display: none;
-        }
-    }
-</style>
-<div class="post-toc" style="position: absolute; top: 188px;">
-    <h2 class="post-toc-title">文章目录</h2>
-    <div class="post-toc-content">
-        <nav id="TableOfContents">
+  <article class="page single">
+    <div class="header"><h1 class="single-title animate__animated animate__flipInX">
+        <span>Hello</span>
+      </h1></div><div class="post-meta">
+      <div class="post-meta-line"><span class="post-author"><span class="author"><i class="fa-solid fa-user-circle" aria-hidden="true"></i>
+      fish</span></span>
+          <span class="post-category">included in <a href="/categories/hugo/"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> hugo</a></span></div>
+      <div class="post-meta-line"><span title=2022-10-16&#32;01:33:35><i class="fa-regular fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-10-16">2022-10-16</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i> 254 words</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw" aria-hidden="true"></i> 2 minutes</span>&nbsp;</div>
+    </div><div class="details toc" id="toc-static" data-kept="false">
+        <div class="details-summary toc-title">
+          <span>Contents</span>
+          <span><i class="details-icon fa-solid fa-angle-right" aria-hidden="true"></i></span>
+        </div>
+        <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
     <li><a href="#1初始化">1.初始化</a></li>
     <li><a href="#2然后将public里面的文件上传到自己的github首页仓库">2.然后将public里面的文件上传到自己的github首页仓库</a>
@@ -158,72 +199,13 @@
     </li>
     <li><a href="#7front-matter配置">7.Front Matter配置</a></li>
   </ul>
-</nav>
-    </div>
-</div>
-<script type="text/javascript">
-    $(document).ready(function () {
-        var postToc = $(".post-toc");
-        if (postToc.length) {
-            var leftPos = $("#main").offset().left;
-            if (leftPos < 220) {
-                postToc.css({ "width": leftPos - 10, "margin-left": (0 - leftPos) })
-            }
-
-            var t = postToc.offset().top - 20,
-                a = {
-                    start: {
-                        position: "absolute",
-                        top: t
-                    },
-                    process: {
-                        position: "fixed",
-                        top: 20
-                    },
-                };
-            $(window).scroll(function () {
-                var e = $(window).scrollTop();
-                e < t ? postToc.css(a.start) : postToc.css(a.process)
-            })
-        }
-
-        if ($("#TableOfContents").children().length < 1) {
-            $(".post-toc").remove();
-        }
-    })
-</script>
-    <article class="post">
-        <header>
-            <h1 class="post-title">Hello</h1>
-        </header>
-        <date class="post-meta meta-date">
-            2022年10月16日
-        </date>
-        
-        <div class="post-meta">
-            <span>|</span>
-            
-            <span class="meta-category">
-                <a href='/categories/hugo' target="_blank">hugo</a>
-            </span>
-            
-        </div>
-        
-        
-        <div class="post-meta">
-            <span id="busuanzi_container_page_pv">|<span id="busuanzi_value_page_pv"></span><span>
-                    阅读</span></span>
-        </div>
-        
-        
-        <div class="clear" style="display: none">
-            <div class="toc-article">
-                <div class="toc-title">文章目录</div>
-            </div>
-        </div>
-        
-        <div class="post-content">
-            <p><a href="http://events.jianshu.io/p/b8d1b6b118c9">访问</a></p>
+</nav></div>
+      </div><div
+      class="content"
+      id="content"
+      
+      
+    ><p><a href="http://events.jianshu.io/p/b8d1b6b118c9"target="_blank" rel="external nofollow noopener noreferrer">访问</a></p>
 <p>[TOC]</p>
 <h2 id="1初始化">1.初始化</h2>
 <div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
@@ -403,259 +385,43 @@
 </span></span><span style="display:flex;"><span>---
 </span></span></code></pre></td></tr></table>
 </div>
-</div>
-        </div>
-
-        
-
-
-        
-
-
-        <div class="post-meta meta-tags">
-            
-            <ul class="clearfix">
-                
-                <li><a href='/tags/hugo' target="_blank">hugo</a></li>
-                
-            </ul>
-            
-        </div>
-    </article>
-    
-    <div id="disqus_thread"></div>
-<script type="application/javascript">
-    window.disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "yourdiscussshortname" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
-    
-    
-    
-    
-
-</div>
-
-                    <footer id="footer">
-    <div>
-        &copy; 2022 <a href="/">wlcome to my Blog ,thank you the world By fish</a>
-        
+</div></div><div class="post-footer" id="post-footer">
+  <div class="post-info">
+    <div class="post-info-line">
+      <div class="post-info-mod">
+        <span title=2022-10-16&#32;01:33:35>Updated on 2022-10-16&nbsp;</span>
+      </div><div class="post-info-license">
+          <span><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span>
+        </div></div>
+    <div class="post-info-line">
+      <div class="post-info-md"></div>
+      <div class="post-info-share">
+        <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="/posts/hello/" data-title="Hello" data-hashtags="hugo"><i class="fa-brands fa-twitter fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="/posts/hello/" data-hashtag="hugo"><i class="fa-brands fa-facebook-square fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="/posts/hello/" data-title="Hello"><i class="fa-brands fa-weibo fa-fw" aria-hidden="true"></i></a>
+  </span>
+      </div>
     </div>
-    <br />
-    <div>
-        <div class="github-badge">
-            <a href="https://gohugo.io/" target="_black" rel="nofollow"><span class="badge-subject">Powered by</span><span class="badge-value bg-blue">Hugo</span></a>
-        </div>
-        <div class="github-badge">
-            <a href="https://www.flysnow.org/" target="_black"><span class="badge-subject">Design by</span><span class="badge-value bg-brightgreen">飞雪无情</span></a>
-        </div>
-        <div class="github-badge">
-            <a href="https://github.com/flysnow-org/maupassant-hugo" target="_black"><span class="badge-subject">Theme</span><span class="badge-value bg-yellowgreen">Maupassant</span></a>
-        </div>
-    </div>
-</footer>
+  </div>
 
-
-    
-    <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.2.8/raphael.min.js" crossorigin="anonymous"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/flowchart/1.12.2/flowchart.min.js" crossorigin="anonymous"></script>
-        <script>(function () {
-                if (!window.flowchart) return;
-                const blocks = document.querySelectorAll('pre code.language-flowchart, pre code.language-flow');
-                for (let i = 0; i < blocks.length; i++) {
-                    const block = blocks[i];
-                    const rootElement = block.parentNode;
-                    const container = document.createElement('div');
-                    const id = `js-flowchart-diagrams-${i}`;
-                    container.id = id;
-                    container.className = 'align-center';
-                    container.setAttribute("style", "overFlow-x:auto");
-                    rootElement.parentNode.replaceChild(container, rootElement);
-                    const diagram = flowchart.parse(block.childNodes[0].nodeValue);
-                    diagram.drawSVG(id, window.flowchartDiagramsOptions ? window.flowchartDiagramsOptions : {});
-                }
-            })();
-        </script>
-    <script type="text/javascript">
-        window.MathJax = {
-            tex2jax: {
-                inlineMath: [['$', '$']],
-                processEscapes: true
-                }
-            };
-    </script>
-    <script src='//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
-
-<a id="rocket" href="#top"></a>
-<script type="text/javascript" src='/js/totop.js?v=0.0.0' async=""></script>
-<style type="text/css">
-div.highlight {
-    position: relative;
-    margin: 1em 0px;
-}
-
-.copy-code {
-    display: none;
-    position: absolute;
-    top: 4px;
-    right: 4px;
-    color: rgba(255, 255, 255, 0.8);
-    background: rgba(78, 78, 78, 0.8);
-    border-radius: var(--radius);
-    padding: 0 5px;
-    font: inherit;
-    user-select: none;
-    cursor: pointer;
-    border: 0;
-    --radius: 8px;
-}
-
-div.highlight:hover .copy-code,pre:hover .copy-code {
-    display: block;
-}
-
-</style>
-<script>
-    document.querySelectorAll('pre > code').forEach((codeblock) => {
-        const container = codeblock.parentNode.parentNode;
-
-        const copybutton = document.createElement('button');
-        copybutton.classList.add('copy-code');
-        copybutton.innerHTML = 'copy';
-
-        function copyingDone() {
-            copybutton.innerHTML = 'copied!';
-            setTimeout(() => {
-                copybutton.innerHTML = 'copy';
-            }, 2000);
-        }
-
-        copybutton.addEventListener('click', (cb) => {
-            if ('clipboard' in navigator) {
-                navigator.clipboard.writeText(codeblock.textContent);
-                copyingDone();
-                return;
-            }
-
-            const range = document.createRange();
-            range.selectNodeContents(codeblock);
-            const selection = window.getSelection();
-            selection.removeAllRanges();
-            selection.addRange(range);
-            try {
-                document.execCommand('copy');
-                copyingDone();
-            } catch (e) { };
-            selection.removeRange(range);
-        });
-
-        if (container.classList.contains("highlight")) {
-            container.appendChild(copybutton);
-        } else if (container.parentNode.firstChild == container) {
-            
-        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
-            
-            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
-        } else {
-            
-            codeblock.parentNode.appendChild(copybutton);
-        }
-    });
-</script>
-
-
-    <script type="text/javascript" src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" async></script>
-
-
-
-
-    <script src='/js/douban.js'></script>
-
-                </div>
-
-                <div id="secondary">
-    <section class="widget">
-        <form id="search" action='/search' method="get" accept-charset="utf-8" target="_blank" _lpchecked="1">
-      
-      <input type="text" name="q" maxlength="20" placeholder="Search">
-      <input type="hidden" name="sitesearch" value="/">
-      <button type="submit" class="submit icon-search"></button>
-</form>
+  <div class="post-info-more">
+    <section class="post-tags"><i class="fa-solid fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/hugo/">hugo</a></section>
+    <section>
+      <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
     </section>
-    
-    <section class="widget">
-        <h3 class="widget-title">最近文章</h3>
-<ul class="widget-list">
-    
-    <li>
-        <a href="/posts/hugo/" title="Hugo" target="_blank">Hugo</a>
-    </li>
-    
-    <li>
-        <a href="/posts/hello/" title="Hello" target="_blank">Hello</a>
-    </li>
-    
-</ul>
-    </section>
+  </div>
 
-    
-
-    <section class="widget">
-        <h3 class="widget-title"><a href='/categories/'>分类</a></h3>
-<ul class="widget-list">
-    
-    <li><a href="/categories/hugo/">hugo (2)</a></li>
-    
-</ul>
-    </section>
-
-    <section class="widget">
-        <h3 class="widget-title"><a href='/tags/'>标签</a></h3>
-<div class="tagcloud">
-    
-    <a href="/tags/hugo/">hugo</a>
-    
+  <div class="post-nav">
+      <a href="/posts/hugo/" class="next" rel="next" title="Hugo">Hugo<i class="fa-solid fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
 </div>
-    </section>
-
-    
-<section class="widget">
-    <h3 class="widget-title">友情链接</h3>
-    <ul class="widget-list">
-        
-        <li>
-            <a target="_blank" href="/" title="my blog">my blog</a>
-        </li>
-        
-    </ul>
-</section>
-
-
-    <section class="widget">
-        <h3 class="widget-title">其它</h3>
-        <ul class="widget-list">
-            <li><a href="/index.xml">文章 RSS</a></li>
-        </ul>
-    </section>
-</div>
-            </div>
-        </div>
-    </div>
-</body>
-
+</article></main><footer class="footer">
+    <div class="footer-container"><div class="footer-line powered">Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreferrer" title="Hugo 0.104.3">Hugo</a> | Theme - <a href="https://github.com/hugo-fixit/FixIt" target="_blank" rel="external" title="FixIt v0.2.17-RC"><img class="fixit-icon" src="/fixit.min.svg" alt="FixIt logo" />&nbsp;FixIt</a>
+        </div><div class="footer-line copyright" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw" aria-hidden="true"></i>
+            <span itemprop="copyrightYear">2021 - 2022</span><span class="author" itemprop="copyrightHolder">
+              <a href="/">fish</a></span><span class="license footer-divider"><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div><div class="footer-line statistics"></div></div>
+  </footer></div><div class="widgets"><div class="fixed-buttons animate__faster d-none"><div class="fixed-button back-to-top" role="button" aria-label="Back to Top"><i class="fa-solid fa-arrow-up fa-fw" aria-hidden="true"></i><span class="variant-numeric d-none">0%</span>
+        </div></div><div id="mask"></div><noscript>
+    <div class="noscript-warning">Theme FixIt works best with JavaScript enabled.</div>
+  </noscript>
+</div><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script src="/lib/autocomplete/autocomplete.min.js" defer></script><script src="/lib/lunr/lunr.min.js" defer></script><script src="/lib/lazysizes/lazysizes.min.js" async defer></script><script src="/lib/sharer/sharer.min.js" async defer></script><script src="/lib/katex/katex.min.js" defer></script><script src="/lib/katex/auto-render.min.js" defer></script><script src="/lib/katex/copy-tex.min.js" defer></script><script src="/lib/katex/mhchem.min.js" defer></script><script src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script>window.config={"code":{"copyTitle":"Copy to clipboard","editLockTitle":"Lock editable code block","editUnLockTitle":"Unlock editable code block","editable":true,"maxShownLines":10},"comment":{"enable":false},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"This website uses Cookies to improve your experience."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","maxResultLength":10,"noResultsFound":"No results found","snippetLength":30}};</script><script src="/js/theme.min.js" defer></script></body>
 </html>
