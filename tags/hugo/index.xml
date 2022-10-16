@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on wlcome to my Blog ,thank you the world</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on wlcome to my Blog ,thank you the world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 16 Oct 2022 13:30:45 +0800</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>/posts/hugo/</link>
+      <pubDate>Sun, 16 Oct 2022 13:30:45 +0800</pubDate>
+      
+      <guid>/posts/hugo/</guid>
+      <description>1.hugo -F --cleanDestinationDir 2.cd public &amp;amp;&amp;amp; git init &amp;amp;&amp;amp; git add . &amp;amp;&amp;amp; git commit -m &amp;quot;go&amp;quot; &amp;amp;&amp;amp; git push 3.新建 hugo new posts/hugo/index.md 4.注意点 1 2 3 4 draft: false # 是否为草稿 comments: true showToc: true # 显示目录 TocOpen: true # 自动展开目录 categories: [&amp;#34;hugo&amp;#34;] #注意这里是</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello/</link>
+      <pubDate>Sun, 16 Oct 2022 01:33:35 +0800</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>访问 [TOC] 1.初始化 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 hugo new site quickstart //创建项目 cd quickstart git init //下载主题包 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke //配置主题 echo &amp;#39;theme = &amp;#34;maupassant&amp;#34;&amp;#39; &amp;gt;&amp;gt; config.toml //创建一个</description>
+    </item>
+    
+  </channel>
+</rss>
