@@ -2,14 +2,22 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>/categories/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
+      <loc>/categories/</loc><lastmod>2022-10-17T21:16:09&#43;08:00</lastmod></url><url>
+      <loc>/categories/flume/</loc><lastmod>2022-10-17T21:16:09&#43;08:00</lastmod></url><url>
+      <loc>/tags/flume_conf/</loc><lastmod>2022-10-17T21:16:09&#43;08:00</lastmod></url><url>
+      <loc>/tags/flume_sinkto_hdfs/</loc><lastmod>2022-10-17T21:16:09&#43;08:00</lastmod></url><url>
+      <loc>/posts/flume/kafka_to_hdfs_log/</loc><lastmod>2022-10-17T21:16:09&#43;08:00</lastmod></url><url>
+      <loc>/posts/</loc><lastmod>2022-10-17T21:16:09&#43;08:00</lastmod></url><url>
+      <loc>/tags/</loc><lastmod>2022-10-17T21:16:09&#43;08:00</lastmod></url><url>
+      <loc>/</loc><lastmod>2022-10-17T21:16:09&#43;08:00</lastmod></url><url>
+      <loc>/tags/script/</loc><lastmod>2022-10-17T18:15:16&#43;08:00</lastmod></url><url>
+      <loc>/categories/script/</loc><lastmod>2022-10-17T18:15:16&#43;08:00</lastmod></url><url>
+      <loc>/tags/xcall/</loc><lastmod>2022-10-17T18:15:16&#43;08:00</lastmod></url><url>
+      <loc>/posts/script/xcall/</loc><lastmod>2022-10-17T18:15:16&#43;08:00</lastmod></url><url>
       <loc>/tags/dw/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
       <loc>/categories/dw/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
       <loc>/posts/dw/dw/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
       <loc>/categories/hive-on-spark/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
-      <loc>/posts/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
-      <loc>/tags/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
-      <loc>/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
       <loc>/tags/ods/</loc><lastmod>2022-10-17T12:13:23&#43;08:00</lastmod></url><url>
       <loc>/posts/dw/ods/ods_test/</loc><lastmod>2022-10-17T12:13:23&#43;08:00</lastmod></url><url>
       <loc>/categories/hive/</loc><lastmod>2022-10-17T12:06:08&#43;08:00</lastmod></url><url>

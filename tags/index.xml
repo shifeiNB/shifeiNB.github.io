@@ -3,7 +3,39 @@
     <title>Tags - Tag - wlcome to my Blog ,thank you the world</title>
     <link>/tags/</link>
     <description>Tags - Tag - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 17 Oct 2022 12:14:58 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>flume_conf</title>
+  <link>/tags/flume_conf/</link>
+  <pubDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/flume_conf/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>flume_sinkto_hdfs</title>
+  <link>/tags/flume_sinkto_hdfs/</link>
+  <pubDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/flume_sinkto_hdfs/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>script</title>
+  <link>/tags/script/</link>
+  <pubDate>Mon, 17 Oct 2022 16:31:53 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/script/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>xcall</title>
+  <link>/tags/xcall/</link>
+  <pubDate>Mon, 17 Oct 2022 16:31:53 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/xcall/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>DW</title>
   <link>/tags/dw/</link>
   <pubDate>Mon, 17 Oct 2022 12:14:58 &#43;0800</pubDate>

@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>flume_conf - Tag - wlcome to my Blog ,thank you the world</title>
+    <link>/tags/flume_conf/</link>
+    <description>flume_conf - Tag - wlcome to my Blog ,thank you the world</description>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</lastBuildDate><atom:link href="/tags/flume_conf/" rel="self" type="application/rss+xml" /><item>
+  <title>Kafka_to_hdfs_log.conf</title>
+  <link>/posts/flume/kafka_to_hdfs_log/</link>
+  <pubDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/flume/kafka_to_hdfs_log/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
