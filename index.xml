@@ -3,9 +3,65 @@
     <title>wlcome to my Blog ,thank you the world</title>
     <link>/</link>
     <description>show something about bigdata</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</lastBuildDate>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>Network_problem,Linux无法联网问题</title>
+  <link>/posts/linux/network_problem/</link>
+  <pubDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/linux/network_problem/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Lg</title>
+  <link>/posts/script/lg/</link>
+  <pubDate>Tue, 18 Oct 2022 17:12:40 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/script/lg/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>F1</title>
+  <link>/posts/script/f1/</link>
+  <pubDate>Tue, 18 Oct 2022 17:01:57 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/script/f1/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>挂载磁盘</title>
+  <link>/posts/linux/%E6%8C%82%E8%BD%BD%E7%A3%81%E7%9B%98/</link>
+  <pubDate>Tue, 18 Oct 2022 16:46:50 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/linux/%E6%8C%82%E8%BD%BD%E7%A3%81%E7%9B%98/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Full_vs_zip</title>
+  <link>/posts/dw/dim/full_vs_zip/</link>
+  <pubDate>Tue, 18 Oct 2022 09:49:20 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/dw/dim/full_vs_zip/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Building</title>
+  <link>/posts/dw/building/</link>
+  <pubDate>Tue, 18 Oct 2022 00:00:01 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/dw/building/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>启动数据顺序</title>
+  <link>/posts/flume/%E5%90%AF%E5%8A%A8%E6%95%B0%E6%8D%AE%E9%A1%BA%E5%BA%8F/</link>
+  <pubDate>Mon, 17 Oct 2022 21:25:07 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/flume/%E5%90%AF%E5%8A%A8%E6%95%B0%E6%8D%AE%E9%A1%BA%E5%BA%8F/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Kafka_to_hdfs_log.conf</title>
   <link>/posts/flume/kafka_to_hdfs_log/</link>
   <pubDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</pubDate>
@@ -63,6 +119,14 @@
   <description><![CDATA[访问
 [TOC]
 1.初始化 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 hugo new site quickstart //创建项目 cd quickstart git init //下载主题包 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke //配置主题 echo &#39;theme = &#34;maupassant&#34;&#39; &gt;&gt; config.toml //创建一个网页 博客 hugo new posts/my-first-post.md hugo server --theme=maupassant --buildDrafts //本地浏览 hugo server -D hugo -D //构成静态页面 2.然后将public里面的文件上传到自己的github首页仓库 2.1先创建.gitignore文件并输入/public/，告诉当前这个仓库不要存储它。 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 # 初始化仓库 git init # 将所有内容添加到git git add .]]></description>
+</item>
+<item>
+  <title></title>
+  <link>/posts/dw/%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/%E9%87%87%E9%9B%86%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA/</link>
+  <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+  <author>fish</author>
+  <guid>/posts/dw/%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/%E9%87%87%E9%9B%86%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA/</guid>
+  <description><![CDATA[]]></description>
 </item>
 </channel>
 </rss>

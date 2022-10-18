@@ -3,12 +3,68 @@
     <title>Categories - Category - wlcome to my Blog ,thank you the world</title>
     <link>/categories/</link>
     <description>Categories - Category - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>Linux</title>
+  <link>/categories/linux/</link>
+  <pubDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/linux/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>network</title>
+  <link>/categories/network/</link>
+  <pubDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/network/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>flume</title>
   <link>/categories/flume/</link>
-  <pubDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</pubDate>
+  <pubDate>Tue, 18 Oct 2022 17:12:40 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/categories/flume/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>lg.sh</title>
+  <link>/categories/lg.sh/</link>
+  <pubDate>Tue, 18 Oct 2022 17:12:40 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/lg.sh/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>f1.sh</title>
+  <link>/categories/f1.sh/</link>
+  <pubDate>Tue, 18 Oct 2022 17:01:57 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/f1.sh/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>dim</title>
+  <link>/categories/dim/</link>
+  <pubDate>Tue, 18 Oct 2022 09:49:20 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/dim/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>DW</title>
+  <link>/categories/dw/</link>
+  <pubDate>Tue, 18 Oct 2022 00:00:01 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/dw/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>draft</title>
+  <link>/categories/draft/</link>
+  <pubDate>Mon, 17 Oct 2022 21:25:07 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/draft/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -17,14 +73,6 @@
   <pubDate>Mon, 17 Oct 2022 16:31:53 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/categories/script/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>DW</title>
-  <link>/categories/dw/</link>
-  <pubDate>Mon, 17 Oct 2022 12:14:58 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/dw/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>

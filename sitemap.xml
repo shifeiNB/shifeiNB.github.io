@@ -2,20 +2,43 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>/categories/</loc><lastmod>2022-10-17T21:25:35&#43;08:00</lastmod></url><url>
-      <loc>/categories/flume/</loc><lastmod>2022-10-17T21:25:35&#43;08:00</lastmod></url><url>
+      <loc>/categories/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
+      <loc>/categories/linux/</loc><lastmod>2022-10-18T18:22:25&#43;08:00</lastmod></url><url>
+      <loc>/tags/linux%E8%BF%9E%E6%8E%A5%E7%BD%91%E7%BB%9C/</loc><lastmod>2022-10-18T18:22:25&#43;08:00</lastmod></url><url>
+      <loc>/categories/network/</loc><lastmod>2022-10-18T18:22:25&#43;08:00</lastmod></url><url>
+      <loc>/posts/linux/network_problem/</loc><lastmod>2022-10-18T18:22:25&#43;08:00</lastmod></url><url>
+      <loc>/posts/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
+      <loc>/tags/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
+      <loc>/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
+      <loc>/categories/flume/</loc><lastmod>2022-10-18T17:20:56&#43;08:00</lastmod></url><url>
+      <loc>/posts/script/lg/</loc><lastmod>2022-10-18T17:20:56&#43;08:00</lastmod></url><url>
+      <loc>/tags/lg.sh/</loc><lastmod>2022-10-18T17:20:56&#43;08:00</lastmod></url><url>
+      <loc>/categories/lg.sh/</loc><lastmod>2022-10-18T17:20:56&#43;08:00</lastmod></url><url>
+      <loc>/posts/script/f1/</loc><lastmod>2022-10-18T17:05:48&#43;08:00</lastmod></url><url>
+      <loc>/tags/f1.sh/</loc><lastmod>2022-10-18T17:05:48&#43;08:00</lastmod></url><url>
+      <loc>/categories/f1.sh/</loc><lastmod>2022-10-18T17:05:48&#43;08:00</lastmod></url><url>
+      <loc>/tags/flume%E4%B8%8A%E6%B8%B8/</loc><lastmod>2022-10-18T17:05:48&#43;08:00</lastmod></url><url>
+      <loc>/tags/linux/</loc><lastmod>2022-10-18T17:01:04&#43;08:00</lastmod></url><url>
+      <loc>/tags/%E6%8C%82%E8%BD%BD%E7%A3%81%E7%9B%98/</loc><lastmod>2022-10-18T17:01:04&#43;08:00</lastmod></url><url>
+      <loc>/posts/linux/%E6%8C%82%E8%BD%BD%E7%A3%81%E7%9B%98/</loc><lastmod>2022-10-18T17:01:04&#43;08:00</lastmod></url><url>
+      <loc>/categories/dim/</loc><lastmod>2022-10-18T10:07:16&#43;08:00</lastmod></url><url>
+      <loc>/tags/dim_full/</loc><lastmod>2022-10-18T10:07:16&#43;08:00</lastmod></url><url>
+      <loc>/tags/dim_zip/</loc><lastmod>2022-10-18T10:07:16&#43;08:00</lastmod></url><url>
+      <loc>/posts/dw/dim/full_vs_zip/</loc><lastmod>2022-10-18T10:07:16&#43;08:00</lastmod></url><url>
+      <loc>/posts/dw/building/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
+      <loc>/tags/dw/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
+      <loc>/categories/dw/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
+      <loc>/tags/%E9%87%87%E9%9B%86%E6%90%AD%E5%BB%BA/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
+      <loc>/tags/draft/</loc><lastmod>2022-10-18T08:33:19&#43;08:00</lastmod></url><url>
+      <loc>/categories/draft/</loc><lastmod>2022-10-18T08:33:19&#43;08:00</lastmod></url><url>
+      <loc>/posts/flume/%E5%90%AF%E5%8A%A8%E6%95%B0%E6%8D%AE%E9%A1%BA%E5%BA%8F/</loc><lastmod>2022-10-18T08:33:19&#43;08:00</lastmod></url><url>
       <loc>/tags/flume_conf/</loc><lastmod>2022-10-17T21:25:35&#43;08:00</lastmod></url><url>
       <loc>/tags/flume_sinkto_hdfs/</loc><lastmod>2022-10-17T21:25:35&#43;08:00</lastmod></url><url>
       <loc>/posts/flume/kafka_to_hdfs_log/</loc><lastmod>2022-10-17T21:25:35&#43;08:00</lastmod></url><url>
-      <loc>/posts/</loc><lastmod>2022-10-17T21:25:35&#43;08:00</lastmod></url><url>
-      <loc>/tags/</loc><lastmod>2022-10-17T21:25:35&#43;08:00</lastmod></url><url>
-      <loc>/</loc><lastmod>2022-10-17T21:25:35&#43;08:00</lastmod></url><url>
-      <loc>/tags/script/</loc><lastmod>2022-10-17T18:15:16&#43;08:00</lastmod></url><url>
-      <loc>/categories/script/</loc><lastmod>2022-10-17T18:15:16&#43;08:00</lastmod></url><url>
-      <loc>/tags/xcall/</loc><lastmod>2022-10-17T18:15:16&#43;08:00</lastmod></url><url>
-      <loc>/posts/script/xcall/</loc><lastmod>2022-10-17T18:15:16&#43;08:00</lastmod></url><url>
-      <loc>/tags/dw/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
-      <loc>/categories/dw/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
+      <loc>/tags/script/</loc><lastmod>2022-10-18T17:00:55&#43;08:00</lastmod></url><url>
+      <loc>/categories/script/</loc><lastmod>2022-10-18T17:00:55&#43;08:00</lastmod></url><url>
+      <loc>/tags/xcall/</loc><lastmod>2022-10-18T17:00:55&#43;08:00</lastmod></url><url>
+      <loc>/posts/script/xcall/</loc><lastmod>2022-10-18T17:00:55&#43;08:00</lastmod></url><url>
       <loc>/posts/dw/dw/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
       <loc>/categories/hive-on-spark/</loc><lastmod>2022-10-17T14:18:40&#43;08:00</lastmod></url><url>
       <loc>/tags/ods/</loc><lastmod>2022-10-17T12:13:23&#43;08:00</lastmod></url><url>
@@ -26,4 +49,5 @@
       <loc>/tags/hugo/</loc><lastmod>2022-10-16T17:36:03&#43;08:00</lastmod></url><url>
       <loc>/categories/hugo/</loc><lastmod>2022-10-16T17:36:03&#43;08:00</lastmod></url><url>
       <loc>/posts/hugo/</loc><lastmod>2022-10-16T15:54:39&#43;08:00</lastmod></url><url>
-      <loc>/posts/hello/</loc><lastmod>2022-10-16T17:36:03&#43;08:00</lastmod></url></urlset>
+      <loc>/posts/hello/</loc><lastmod>2022-10-16T17:36:03&#43;08:00</lastmod></url><url>
+      <loc>/posts/dw/%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/%E9%87%87%E9%9B%86%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA/</loc><lastmod>2022-10-17T23:58:17&#43;08:00</lastmod></url></urlset>

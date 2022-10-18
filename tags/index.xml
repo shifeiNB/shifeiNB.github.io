@@ -3,7 +3,95 @@
     <title>Tags - Tag - wlcome to my Blog ,thank you the world</title>
     <link>/tags/</link>
     <description>Tags - Tag - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>Linux连接网络</title>
+  <link>/tags/linux%E8%BF%9E%E6%8E%A5%E7%BD%91%E7%BB%9C/</link>
+  <pubDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/linux%E8%BF%9E%E6%8E%A5%E7%BD%91%E7%BB%9C/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>lg.sh</title>
+  <link>/tags/lg.sh/</link>
+  <pubDate>Tue, 18 Oct 2022 17:12:40 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/lg.sh/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>f1.sh</title>
+  <link>/tags/f1.sh/</link>
+  <pubDate>Tue, 18 Oct 2022 17:01:57 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/f1.sh/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>flume上游</title>
+  <link>/tags/flume%E4%B8%8A%E6%B8%B8/</link>
+  <pubDate>Tue, 18 Oct 2022 17:01:57 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/flume%E4%B8%8A%E6%B8%B8/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Linux</title>
+  <link>/tags/linux/</link>
+  <pubDate>Tue, 18 Oct 2022 16:46:50 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/linux/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>挂载磁盘</title>
+  <link>/tags/%E6%8C%82%E8%BD%BD%E7%A3%81%E7%9B%98/</link>
+  <pubDate>Tue, 18 Oct 2022 16:46:50 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/%E6%8C%82%E8%BD%BD%E7%A3%81%E7%9B%98/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>dim_full</title>
+  <link>/tags/dim_full/</link>
+  <pubDate>Tue, 18 Oct 2022 09:49:20 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/dim_full/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>dim_zip</title>
+  <link>/tags/dim_zip/</link>
+  <pubDate>Tue, 18 Oct 2022 09:49:20 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/dim_zip/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>DW</title>
+  <link>/tags/dw/</link>
+  <pubDate>Tue, 18 Oct 2022 00:00:01 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/dw/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>采集搭建</title>
+  <link>/tags/%E9%87%87%E9%9B%86%E6%90%AD%E5%BB%BA/</link>
+  <pubDate>Tue, 18 Oct 2022 00:00:01 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/%E9%87%87%E9%9B%86%E6%90%AD%E5%BB%BA/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>draft</title>
+  <link>/tags/draft/</link>
+  <pubDate>Mon, 17 Oct 2022 21:25:07 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/draft/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>flume_conf</title>
   <link>/tags/flume_conf/</link>
   <pubDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</pubDate>
@@ -33,14 +121,6 @@
   <pubDate>Mon, 17 Oct 2022 16:31:53 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/tags/xcall/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>DW</title>
-  <link>/tags/dw/</link>
-  <pubDate>Mon, 17 Oct 2022 12:14:58 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/dw/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>

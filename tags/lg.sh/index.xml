@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>lg.sh - Tag - wlcome to my Blog ,thank you the world</title>
+    <link>/tags/lg.sh/</link>
+    <description>lg.sh - Tag - wlcome to my Blog ,thank you the world</description>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 18 Oct 2022 17:12:40 &#43;0800</lastBuildDate><atom:link href="/tags/lg.sh/" rel="self" type="application/rss+xml" /><item>
+  <title>Lg</title>
+  <link>/posts/script/lg/</link>
+  <pubDate>Tue, 18 Oct 2022 17:12:40 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/script/lg/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
