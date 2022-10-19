@@ -4,19 +4,27 @@
     <link>/posts/</link>
     <description>All Posts | wlcome to my Blog ,thank you the world</description>
     <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>Xsync</title>
-  <link>/posts/script/xsync/</link>
-  <pubDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/script/xsync/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
   <title>Mapred-site.xml</title>
   <link>/posts/hadoop/mapreduce/</link>
   <pubDate>Wed, 19 Oct 2022 20:45:48 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/hadoop/mapreduce/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Websites</title>
+  <link>/posts/websites/</link>
+  <pubDate>Wed, 19 Oct 2022 18:05:41 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/websites/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Xsync</title>
+  <link>/posts/script/xsync/</link>
+  <pubDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/script/xsync/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -49,14 +57,6 @@
   <pubDate>Wed, 19 Oct 2022 16:52:05 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/linux/install/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Websites</title>
-  <link>/posts/websites/</link>
-  <pubDate>Wed, 19 Oct 2022 18:05:41 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/websites/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
