@@ -3,9 +3,25 @@
     <title>wlcome to my Blog ,thank you the world</title>
     <link>/</link>
     <description>show something about bigdata</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</lastBuildDate>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>Zailaiiyici-mysql安装脚本</title>
+  <link>/posts/mysql/zailaiiyici/</link>
+  <pubDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/mysql/zailaiiyici/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Flume将数据写入到kafka</title>
+  <link>/posts/flume/flume/</link>
+  <pubDate>Tue, 18 Oct 2022 18:38:51 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/flume/flume/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Network_problem,Linux无法联网问题</title>
   <link>/posts/linux/network_problem/</link>
   <pubDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</pubDate>

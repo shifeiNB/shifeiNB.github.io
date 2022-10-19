@@ -2,15 +2,21 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>/categories/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
-      <loc>/categories/linux/</loc><lastmod>2022-10-18T18:22:25&#43;08:00</lastmod></url><url>
-      <loc>/tags/linux%E8%BF%9E%E6%8E%A5%E7%BD%91%E7%BB%9C/</loc><lastmod>2022-10-18T18:22:25&#43;08:00</lastmod></url><url>
-      <loc>/categories/network/</loc><lastmod>2022-10-18T18:22:25&#43;08:00</lastmod></url><url>
-      <loc>/posts/linux/network_problem/</loc><lastmod>2022-10-18T18:22:25&#43;08:00</lastmod></url><url>
-      <loc>/posts/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
-      <loc>/tags/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
-      <loc>/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
-      <loc>/categories/flume/</loc><lastmod>2022-10-18T17:20:56&#43;08:00</lastmod></url><url>
+      <loc>/categories/</loc><lastmod>2022-10-19T14:00:12&#43;08:00</lastmod></url><url>
+      <loc>/categories/mysql-install/</loc><lastmod>2022-10-19T14:00:12&#43;08:00</lastmod></url><url>
+      <loc>/tags/mysqlinstall/</loc><lastmod>2022-10-19T14:00:12&#43;08:00</lastmod></url><url>
+      <loc>/posts/</loc><lastmod>2022-10-19T14:00:12&#43;08:00</lastmod></url><url>
+      <loc>/tags/</loc><lastmod>2022-10-19T14:00:12&#43;08:00</lastmod></url><url>
+      <loc>/</loc><lastmod>2022-10-19T14:00:12&#43;08:00</lastmod></url><url>
+      <loc>/posts/mysql/zailaiiyici/</loc><lastmod>2022-10-19T14:00:12&#43;08:00</lastmod></url><url>
+      <loc>/tags/flume/</loc><lastmod>2022-10-18T20:49:22&#43;08:00</lastmod></url><url>
+      <loc>/categories/flume/</loc><lastmod>2022-10-18T20:49:22&#43;08:00</lastmod></url><url>
+      <loc>/tags/flume_kafkaflume%E7%9A%84%E4%B8%A4%E7%A7%8D%E5%86%99/</loc><lastmod>2022-10-18T20:49:22&#43;08:00</lastmod></url><url>
+      <loc>/posts/flume/flume/</loc><lastmod>2022-10-18T20:49:22&#43;08:00</lastmod></url><url>
+      <loc>/categories/linux/</loc><lastmod>2022-10-18T19:20:48&#43;08:00</lastmod></url><url>
+      <loc>/tags/linux%E8%BF%9E%E6%8E%A5%E7%BD%91%E7%BB%9C/</loc><lastmod>2022-10-18T19:20:48&#43;08:00</lastmod></url><url>
+      <loc>/categories/network/</loc><lastmod>2022-10-18T19:20:48&#43;08:00</lastmod></url><url>
+      <loc>/posts/linux/network_problem/</loc><lastmod>2022-10-18T19:20:48&#43;08:00</lastmod></url><url>
       <loc>/posts/script/lg/</loc><lastmod>2022-10-18T17:20:56&#43;08:00</lastmod></url><url>
       <loc>/tags/lg.sh/</loc><lastmod>2022-10-18T17:20:56&#43;08:00</lastmod></url><url>
       <loc>/categories/lg.sh/</loc><lastmod>2022-10-18T17:20:56&#43;08:00</lastmod></url><url>

@@ -3,7 +3,23 @@
     <title>Categories - Category - wlcome to my Blog ,thank you the world</title>
     <link>/categories/</link>
     <description>Categories - Category - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>mysql-install</title>
+  <link>/categories/mysql-install/</link>
+  <pubDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/mysql-install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>flume</title>
+  <link>/categories/flume/</link>
+  <pubDate>Tue, 18 Oct 2022 18:38:51 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/flume/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Linux</title>
   <link>/categories/linux/</link>
   <pubDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</pubDate>
@@ -17,14 +33,6 @@
   <pubDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/categories/network/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>flume</title>
-  <link>/categories/flume/</link>
-  <pubDate>Tue, 18 Oct 2022 17:12:40 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/flume/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
