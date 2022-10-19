@@ -3,7 +3,15 @@
     <title>flume - Tag - wlcome to my Blog ,thank you the world</title>
     <link>/tags/flume/</link>
     <description>flume - Tag - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 18 Oct 2022 18:38:51 &#43;0800</lastBuildDate><atom:link href="/tags/flume/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</lastBuildDate><atom:link href="/tags/flume/" rel="self" type="application/rss+xml" /><item>
+  <title>Language_manual_hive_kafka_hadoop_apache_etc</title>
+  <link>/posts/language_manual_hive_kafka_hadoop_apache_etc/</link>
+  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/language_manual_hive_kafka_hadoop_apache_etc/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Flume将数据写入到kafka</title>
   <link>/posts/flume/flume/</link>
   <pubDate>Tue, 18 Oct 2022 18:38:51 &#43;0800</pubDate>

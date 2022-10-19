@@ -3,20 +3,52 @@
     <title>Tags - Tag - wlcome to my Blog ,thank you the world</title>
     <link>/tags/</link>
     <description>Tags - Tag - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
-  <title>mysql—install</title>
-  <link>/tags/mysqlinstall/</link>
-  <pubDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</pubDate>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>Apache</title>
+  <link>/tags/apache/</link>
+  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
   <author>fish</author>
-  <guid>/tags/mysqlinstall/</guid>
+  <guid>/tags/apache/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>flink</title>
+  <link>/tags/flink/</link>
+  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/flink/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>flume</title>
   <link>/tags/flume/</link>
-  <pubDate>Tue, 18 Oct 2022 18:38:51 &#43;0800</pubDate>
+  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/tags/flume/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>hive</title>
+  <link>/tags/hive/</link>
+  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/hive/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>kafka</title>
+  <link>/tags/kafka/</link>
+  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/kafka/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>mysql—install</title>
+  <link>/tags/mysqlinstall/</link>
+  <pubDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/mysqlinstall/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -129,38 +161,6 @@
   <pubDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/tags/flume_sinkto_hdfs/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>script</title>
-  <link>/tags/script/</link>
-  <pubDate>Mon, 17 Oct 2022 16:31:53 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/script/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>xcall</title>
-  <link>/tags/xcall/</link>
-  <pubDate>Mon, 17 Oct 2022 16:31:53 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/xcall/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>ODS</title>
-  <link>/tags/ods/</link>
-  <pubDate>Mon, 17 Oct 2022 12:12:22 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/ods/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>hugo</title>
-  <link>/tags/hugo/</link>
-  <pubDate>Sun, 16 Oct 2022 13:30:45 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/hugo/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
