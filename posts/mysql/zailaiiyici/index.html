@@ -9,14 +9,14 @@
 <meta name="author-link" content="">
 <meta name="description" content="show something about bigdata" /><meta name="keywords" content='mysql—install' /><meta itemprop="name" content="Zailaiiyici-mysql安装脚本">
 <meta itemprop="description" content=""><meta itemprop="datePublished" content="2022-10-19T13:55:23+08:00" />
-<meta itemprop="dateModified" content="2022-10-19T14:11:33+08:00" />
-<meta itemprop="wordCount" content="76">
+<meta itemprop="dateModified" content="2022-10-19T16:50:27+08:00" />
+<meta itemprop="wordCount" content="105">
 <meta itemprop="keywords" content="mysql—install," /><meta property="og:title" content="Zailaiiyici-mysql安装脚本" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/posts/mysql/zailaiiyici/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-10-19T13:55:23+08:00" />
-<meta property="article:modified_time" content="2022-10-19T14:11:33+08:00" />
+<meta property="article:modified_time" content="2022-10-19T16:50:27+08:00" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Zailaiiyici-mysql安装脚本"/>
@@ -33,8 +33,8 @@
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "\/posts\/mysql\/zailaiiyici\/"
-    },"genre": "posts","keywords": "mysql—install","wordcount":  76 ,
-    "url": "\/posts\/mysql\/zailaiiyici\/","datePublished": "2022-10-19T13:55:23+08:00","dateModified": "2022-10-19T14:11:33+08:00","publisher": {
+    },"genre": "posts","keywords": "mysql—install","wordcount":  105 ,
+    "url": "\/posts\/mysql\/zailaiiyici\/","datePublished": "2022-10-19T13:55:23+08:00","dateModified": "2022-10-19T16:50:27+08:00","publisher": {
       "@type": "Organization",
       "name": ""},"author": {
         "@type": "Person",
@@ -217,7 +217,8 @@
   </div>
   <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
-  </div><main class="container" data-page-style="normal"><aside class="toc" id="toc-auto"></aside>
+  </div><main class="container" data-page-style="normal"><aside class="toc" id="toc-auto"><h2 class="toc-title">Contents&nbsp;<i class="toc-icon fa-solid fa-angle-down fa-fw" aria-hidden="true"></i></h2>
+      <div class="toc-content" id="toc-content-auto"></div></aside>
 
   <aside class="aside-custom">
     
@@ -230,13 +231,25 @@
       <div class="post-meta-line"><span class="post-author"><span class="author"><i class="fa-solid fa-user-circle" aria-hidden="true"></i>
       </span></span>
           <span class="post-category">included in <a href="/categories/mysql/"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> mysql</a></span></div>
-      <div class="post-meta-line"><span title=2022-10-19&#32;13:55:23><i class="fa-regular fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-10-19">2022-10-19</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i> 76 words</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw" aria-hidden="true"></i> One minute</span>&nbsp;</div>
-    </div><div
+      <div class="post-meta-line"><span title=2022-10-19&#32;13:55:23><i class="fa-regular fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-10-19">2022-10-19</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i> 105 words</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw" aria-hidden="true"></i> One minute</span>&nbsp;</div>
+    </div><div class="details toc" id="toc-static" data-kept="false">
+        <div class="details-summary toc-title">
+          <span>Contents</span>
+          <span><i class="details-icon fa-solid fa-angle-right" aria-hidden="true"></i></span>
+        </div>
+        <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#1zailaiyicish----卸载安装开启设置密码远程登录">1.zailaiyici.sh    [卸载，安装，开启，设置密码，远程登录]</a></li>
+    <li><a href="#2-optsoftwareinitsql">2. /opt/software/init.sql</a></li>
+  </ul>
+</nav></div>
+      </div><div
       class="content"
       id="content"
       
       
-    ><div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+    ><h2 id="1zailaiyicish----卸载安装开启设置密码远程登录">1.zailaiyici.sh    [卸载，安装，开启，设置密码，远程登录]</h2>
+<div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 <table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
 <pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
 </span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
@@ -278,11 +291,32 @@
 </span></span><span style="display:flex;"><span>mysql -uroot -p<span style="color:#d14">&#34;</span><span style="color:#000;font-weight:bold">$(</span>sudo cat /var/log/mysqld.log | grep <span style="color:#d14">&#39;temporary password&#39;</span> | awk <span style="color:#d14">&#39;{print $11}&#39;</span><span style="color:#000;font-weight:bold">)</span><span style="color:#d14">&#34;</span> --connect-expired-password &lt; /opt/software/init.sql
 </span></span></code></pre></td></tr></table>
 </div>
+</div><h2 id="2-optsoftwareinitsql">2. /opt/software/init.sql</h2>
+<div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sql" data-lang="sql"><span style="display:flex;"><span><span style="color:#bbb">
+</span></span></span><span style="display:flex;"><span><span style="color:#bbb"></span><span style="color:#000;font-weight:bold">set</span><span style="color:#bbb"> </span>password<span style="color:#000;font-weight:bold">=</span>password(<span style="color:#d14">&#34;Qs23=zs32&#34;</span>);<span style="color:#bbb">
+</span></span></span><span style="display:flex;"><span><span style="color:#bbb"></span><span style="color:#000;font-weight:bold">set</span><span style="color:#bbb"> </span><span style="color:#000;font-weight:bold">global</span><span style="color:#bbb"> </span>validate_password_length<span style="color:#000;font-weight:bold">=</span><span style="color:#099">4</span>;<span style="color:#bbb">
+</span></span></span><span style="display:flex;"><span><span style="color:#bbb"></span><span style="color:#000;font-weight:bold">set</span><span style="color:#bbb"> </span><span style="color:#000;font-weight:bold">global</span><span style="color:#bbb"> </span>validate_password_policy<span style="color:#000;font-weight:bold">=</span><span style="color:#099">0</span>;<span style="color:#bbb">
+</span></span></span><span style="display:flex;"><span><span style="color:#bbb"></span><span style="color:#000;font-weight:bold">set</span><span style="color:#bbb"> </span>password<span style="color:#000;font-weight:bold">=</span>password(<span style="color:#d14">&#34;fish&#34;</span>);<span style="color:#bbb">
+</span></span></span><span style="display:flex;"><span><span style="color:#bbb"></span><span style="color:#000;font-weight:bold">update</span><span style="color:#bbb"> </span>mysql.<span style="color:#000;font-weight:bold">user</span><span style="color:#bbb"> </span><span style="color:#000;font-weight:bold">set</span><span style="color:#bbb"> </span><span style="color:#000;font-weight:bold">host</span><span style="color:#000;font-weight:bold">=</span><span style="color:#d14">&#34;%&#34;</span><span style="color:#bbb"> </span><span style="color:#000;font-weight:bold">where</span><span style="color:#bbb"> </span><span style="color:#000;font-weight:bold">user</span><span style="color:#000;font-weight:bold">=</span><span style="color:#d14">&#34;root&#34;</span>;<span style="color:#bbb">
+</span></span></span><span style="display:flex;"><span><span style="color:#bbb"></span>flush<span style="color:#bbb"> </span><span style="color:#000;font-weight:bold">privileges</span>;<span style="color:#bbb">
+</span></span></span></code></pre></td></tr></table>
+</div>
 </div></div><div class="post-footer" id="post-footer">
   <div class="post-info">
     <div class="post-info-line">
       <div class="post-info-mod">
-        <span title=2022-10-19&#32;14:11:33>Updated on 2022-10-19&nbsp;</span>
+        <span title=2022-10-19&#32;16:50:27>Updated on 2022-10-19&nbsp;</span>
       </div></div>
     <div class="post-info-line">
       <div class="post-info-md"></div>

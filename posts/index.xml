@@ -3,12 +3,60 @@
     <title>All Posts - wlcome to my Blog ,thank you the world</title>
     <link>/posts/</link>
     <description>All Posts | wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>Language_manual_hive_kafka_hadoop_apache_etc</title>
-  <link>/posts/language_manual_hive_kafka_hadoop_apache_etc/</link>
-  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>Xsync</title>
+  <link>/posts/script/xsync/</link>
+  <pubDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>/posts/language_manual_hive_kafka_hadoop_apache_etc/</guid>
+  <guid>/posts/script/xsync/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Mapred-site.xml</title>
+  <link>/posts/hadoop/mapreduce/</link>
+  <pubDate>Wed, 19 Oct 2022 20:45:48 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/mapreduce/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Yarn-site.xml</title>
+  <link>/posts/hadoop/yarn/</link>
+  <pubDate>Wed, 19 Oct 2022 20:46:00 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/yarn/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Hdfs-site.xml</title>
+  <link>/posts/hadoop/hdfs/</link>
+  <pubDate>Wed, 19 Oct 2022 20:46:14 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/hdfs/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Core-site.xml</title>
+  <link>/posts/hadoop/core/</link>
+  <pubDate>Wed, 19 Oct 2022 20:45:35 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/core/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Install</title>
+  <link>/posts/linux/install/</link>
+  <pubDate>Wed, 19 Oct 2022 16:52:05 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/linux/install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Websites</title>
+  <link>/posts/websites/</link>
+  <pubDate>Wed, 19 Oct 2022 18:05:41 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/websites/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -17,6 +65,14 @@
   <pubDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/mysql/zailaiiyici/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Language_manual_hive_kafka_hadoop_apache_etc</title>
+  <link>/posts/language_manual_hive_kafka_hadoop_apache_etc/</link>
+  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/language_manual_hive_kafka_hadoop_apache_etc/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -151,6 +207,62 @@
 4.注意点 1 2 3 4 draft: false # 是否为草稿 comments: true showToc: true # 显示目录 TocOpen: true # 自动展开目录 categories: [&#34;hugo&#34;] #注意这里是数组 tags: [&#34;hugo&#34;] 5.直接提交 1 2 3 4 git add . &amp;&amp; git commit -m &#34;go&#34; &amp;&amp; git push &amp;&amp; git remote add origin https://github.com/shifeiNB/shifeiNB.github.io.git &amp;&amp; git pull origin master --allow-unrelated-histories &amp;&amp; git push origin master ]]></description>
 </item>
 <item>
+  <title>Xsync</title>
+  <link>/posts/script/xsync/</link>
+  <pubDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/script/xsync/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Hdfs-site.xml</title>
+  <link>/posts/hadoop/hdfs/</link>
+  <pubDate>Wed, 19 Oct 2022 20:46:14 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/hdfs/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Yarn-site.xml</title>
+  <link>/posts/hadoop/yarn/</link>
+  <pubDate>Wed, 19 Oct 2022 20:46:00 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/yarn/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Mapred-site.xml</title>
+  <link>/posts/hadoop/mapreduce/</link>
+  <pubDate>Wed, 19 Oct 2022 20:45:48 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/mapreduce/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Core-site.xml</title>
+  <link>/posts/hadoop/core/</link>
+  <pubDate>Wed, 19 Oct 2022 20:45:35 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/core/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Websites</title>
+  <link>/posts/websites/</link>
+  <pubDate>Wed, 19 Oct 2022 18:05:41 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/websites/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Install</title>
+  <link>/posts/linux/install/</link>
+  <pubDate>Wed, 19 Oct 2022 16:52:05 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/linux/install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Language_manual_hive_kafka_hadoop_apache_etc</title>
   <link>/posts/language_manual_hive_kafka_hadoop_apache_etc/</link>
   <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
@@ -252,49 +364,6 @@
   <pubDate>Mon, 17 Oct 2022 12:14:58 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/dw/dw/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>ODS_test</title>
-  <link>/posts/dw/ods/ods_test/</link>
-  <pubDate>Mon, 17 Oct 2022 12:12:22 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/dw/ods/ods_test/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>ODS</title>
-  <link>/posts/dw/ods/ods/</link>
-  <pubDate>Mon, 17 Oct 2022 12:03:11 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/dw/ods/ods/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Hugo</title>
-  <link>/posts/hugo/</link>
-  <pubDate>Sun, 16 Oct 2022 13:30:45 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/posts/hugo/</guid>
-  <description><![CDATA[1.hugo -F --cleanDestinationDir 2.cd public &amp;&amp; git init &amp;&amp; git add . &amp;&amp; git commit -m &quot;go&quot; &amp;&amp; git push 3.新建 hugo new posts/hugo/index.md
-4.注意点 1 2 3 4 draft: false # 是否为草稿 comments: true showToc: true # 显示目录 TocOpen: true # 自动展开目录 categories: [&#34;hugo&#34;] #注意这里是数组 tags: [&#34;hugo&#34;] 5.直接提交 1 2 3 4 git add . &amp;&amp; git commit -m &#34;go&#34; &amp;&amp; git push &amp;&amp; git remote add origin https://github.com/shifeiNB/shifeiNB.github.io.git &amp;&amp; git pull origin master --allow-unrelated-histories &amp;&amp; git push origin master ]]></description>
-</item>
-<item>
-  <title>Hello</title>
-  <link>/posts/hello/</link>
-  <pubDate>Sun, 16 Oct 2022 01:33:35 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/posts/hello/</guid>
-  <description><![CDATA[访问
-[TOC]
-1.初始化 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 hugo new site quickstart //创建项目 cd quickstart git init //下载主题包 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke //配置主题 echo &#39;theme = &#34;maupassant&#34;&#39; &gt;&gt; config.toml //创建一个网页 博客 hugo new posts/my-first-post.md hugo server --theme=maupassant --buildDrafts //本地浏览 hugo server -D hugo -D //构成静态页面 2.然后将public里面的文件上传到自己的github首页仓库 2.1先创建.gitignore文件并输入/public/，告诉当前这个仓库不要存储它。 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 # 初始化仓库 git init # 将所有内容添加到git git add .]]></description>
-</item>
-<item>
-  <title></title>
-  <link>/posts/dw/%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/%E9%87%87%E9%9B%86%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA/</link>
-  <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-  <author>fish</author>
-  <guid>/posts/dw/%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/%E9%87%87%E9%9B%86%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
