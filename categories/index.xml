@@ -3,20 +3,36 @@
     <title>Categories - Category - wlcome to my Blog ,thank you the world</title>
     <link>/categories/</link>
     <description>Categories - Category - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
-  <title>script</title>
-  <link>/categories/script/</link>
-  <pubDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</pubDate>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>zookeeper</title>
+  <link>/categories/zookeeper/</link>
+  <pubDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</pubDate>
   <author>fish</author>
-  <guid>/categories/script/</guid>
+  <guid>/categories/zookeeper/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>hadoop</title>
   <link>/categories/hadoop/</link>
-  <pubDate>Wed, 19 Oct 2022 20:46:14 &#43;0800</pubDate>
+  <pubDate>Thu, 20 Oct 2022 02:13:49 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/categories/hadoop/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>script</title>
+  <link>/categories/script/</link>
+  <pubDate>Thu, 20 Oct 2022 02:13:49 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/script/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>init.sql</title>
+  <link>/categories/init.sql/</link>
+  <pubDate>Thu, 20 Oct 2022 01:30:01 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/init.sql/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>

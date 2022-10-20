@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>hdp - Tag - wlcome to my Blog ,thank you the world</title>
+    <link>/tags/hdp/</link>
+    <description>hdp - Tag - wlcome to my Blog ,thank you the world</description>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 20 Oct 2022 02:13:49 &#43;0800</lastBuildDate><atom:link href="/tags/hdp/" rel="self" type="application/rss+xml" /><item>
+  <title>Hdp.sh</title>
+  <link>/posts/hadoop/hdp_sh/</link>
+  <pubDate>Thu, 20 Oct 2022 02:13:49 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/hdp_sh/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

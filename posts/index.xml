@@ -3,12 +3,84 @@
     <title>All Posts - wlcome to my Blog ,thank you the world</title>
     <link>/posts/</link>
     <description>All Posts | wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>Install</title>
+  <link>/posts/zookeeper/install/</link>
+  <pubDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/zookeeper/install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Install</title>
+  <link>/posts/linux/install/</link>
+  <pubDate>Wed, 19 Oct 2022 16:52:05 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/linux/install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Hdfs-site.xml</title>
+  <link>/posts/hadoop/hdfs/</link>
+  <pubDate>Wed, 19 Oct 2022 20:46:14 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/hdfs/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>第一次启动格式化Hadoop</title>
+  <link>/posts/hadoop/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AF%E5%8A%A8%E6%A0%BC%E5%BC%8F%E5%8C%96hadoop/</link>
+  <pubDate>Thu, 20 Oct 2022 01:54:09 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AF%E5%8A%A8%E6%A0%BC%E5%BC%8F%E5%8C%96hadoop/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Hdp.sh</title>
+  <link>/posts/hadoop/hdp_sh/</link>
+  <pubDate>Thu, 20 Oct 2022 02:13:49 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/hdp_sh/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Yarn-site.xml</title>
+  <link>/posts/hadoop/yarn/</link>
+  <pubDate>Wed, 19 Oct 2022 20:46:00 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/yarn/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Mapred-site.xml</title>
   <link>/posts/hadoop/mapreduce/</link>
   <pubDate>Wed, 19 Oct 2022 20:45:48 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/hadoop/mapreduce/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Workers</title>
+  <link>/posts/hadoop/workers/</link>
+  <pubDate>Thu, 20 Oct 2022 01:45:46 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/workers/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Core-site.xml</title>
+  <link>/posts/hadoop/core/</link>
+  <pubDate>Wed, 19 Oct 2022 20:45:35 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/core/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Init_sql</title>
+  <link>/posts/sql/init_sql/</link>
+  <pubDate>Thu, 20 Oct 2022 01:30:01 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/sql/init_sql/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -25,38 +97,6 @@
   <pubDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/script/xsync/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Yarn-site.xml</title>
-  <link>/posts/hadoop/yarn/</link>
-  <pubDate>Wed, 19 Oct 2022 20:46:00 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/hadoop/yarn/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Hdfs-site.xml</title>
-  <link>/posts/hadoop/hdfs/</link>
-  <pubDate>Wed, 19 Oct 2022 20:46:14 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/hadoop/hdfs/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Core-site.xml</title>
-  <link>/posts/hadoop/core/</link>
-  <pubDate>Wed, 19 Oct 2022 20:45:35 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/hadoop/core/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Install</title>
-  <link>/posts/linux/install/</link>
-  <pubDate>Wed, 19 Oct 2022 16:52:05 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/linux/install/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -207,6 +247,46 @@
 4.注意点 1 2 3 4 draft: false # 是否为草稿 comments: true showToc: true # 显示目录 TocOpen: true # 自动展开目录 categories: [&#34;hugo&#34;] #注意这里是数组 tags: [&#34;hugo&#34;] 5.直接提交 1 2 3 4 git add . &amp;&amp; git commit -m &#34;go&#34; &amp;&amp; git push &amp;&amp; git remote add origin https://github.com/shifeiNB/shifeiNB.github.io.git &amp;&amp; git pull origin master --allow-unrelated-histories &amp;&amp; git push origin master ]]></description>
 </item>
 <item>
+  <title>Install</title>
+  <link>/posts/zookeeper/install/</link>
+  <pubDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/zookeeper/install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Hdp.sh</title>
+  <link>/posts/hadoop/hdp_sh/</link>
+  <pubDate>Thu, 20 Oct 2022 02:13:49 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/hdp_sh/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>第一次启动格式化Hadoop</title>
+  <link>/posts/hadoop/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AF%E5%8A%A8%E6%A0%BC%E5%BC%8F%E5%8C%96hadoop/</link>
+  <pubDate>Thu, 20 Oct 2022 01:54:09 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AF%E5%8A%A8%E6%A0%BC%E5%BC%8F%E5%8C%96hadoop/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Workers</title>
+  <link>/posts/hadoop/workers/</link>
+  <pubDate>Thu, 20 Oct 2022 01:45:46 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/workers/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Init_sql</title>
+  <link>/posts/sql/init_sql/</link>
+  <pubDate>Thu, 20 Oct 2022 01:30:01 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/sql/init_sql/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Xsync</title>
   <link>/posts/script/xsync/</link>
   <pubDate>Wed, 19 Oct 2022 21:21:58 &#43;0800</pubDate>
@@ -324,46 +404,6 @@
   <pubDate>Tue, 18 Oct 2022 09:49:20 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/dw/dim/full_vs_zip/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Building</title>
-  <link>/posts/dw/building/</link>
-  <pubDate>Tue, 18 Oct 2022 00:00:01 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/dw/building/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>启动数据顺序</title>
-  <link>/posts/flume/%E5%90%AF%E5%8A%A8%E6%95%B0%E6%8D%AE%E9%A1%BA%E5%BA%8F/</link>
-  <pubDate>Mon, 17 Oct 2022 21:25:07 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/flume/%E5%90%AF%E5%8A%A8%E6%95%B0%E6%8D%AE%E9%A1%BA%E5%BA%8F/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Kafka_to_hdfs_log.conf</title>
-  <link>/posts/flume/kafka_to_hdfs_log/</link>
-  <pubDate>Mon, 17 Oct 2022 21:11:36 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/flume/kafka_to_hdfs_log/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Xcall</title>
-  <link>/posts/script/xcall/</link>
-  <pubDate>Mon, 17 Oct 2022 16:31:53 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/script/xcall/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>DW</title>
-  <link>/posts/dw/dw/</link>
-  <pubDate>Mon, 17 Oct 2022 12:14:58 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/dw/dw/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>

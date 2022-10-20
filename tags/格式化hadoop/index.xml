@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>格式化Hadoop - Tag - wlcome to my Blog ,thank you the world</title>
+    <link>/tags/%E6%A0%BC%E5%BC%8F%E5%8C%96hadoop/</link>
+    <description>格式化Hadoop - Tag - wlcome to my Blog ,thank you the world</description>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 20 Oct 2022 01:54:09 &#43;0800</lastBuildDate><atom:link href="/tags/%E6%A0%BC%E5%BC%8F%E5%8C%96hadoop/" rel="self" type="application/rss+xml" /><item>
+  <title>第一次启动格式化Hadoop</title>
+  <link>/posts/hadoop/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AF%E5%8A%A8%E6%A0%BC%E5%BC%8F%E5%8C%96hadoop/</link>
+  <pubDate>Thu, 20 Oct 2022 01:54:09 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hadoop/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AF%E5%8A%A8%E6%A0%BC%E5%BC%8F%E5%8C%96hadoop/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

@@ -2,30 +2,42 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>/categories/</loc><lastmod>2022-10-20T00:07:05&#43;08:00</lastmod></url><url>
-      <loc>/posts/</loc><lastmod>2022-10-20T00:07:05&#43;08:00</lastmod></url><url>
-      <loc>/categories/script/</loc><lastmod>2022-10-19T21:23:29&#43;08:00</lastmod></url><url>
-      <loc>/tags/</loc><lastmod>2022-10-20T00:07:05&#43;08:00</lastmod></url><url>
-      <loc>/</loc><lastmod>2022-10-20T00:07:05&#43;08:00</lastmod></url><url>
+      <loc>/categories/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
+      <loc>/posts/zookeeper/install/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
+      <loc>/posts/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
+      <loc>/tags/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
+      <loc>/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
+      <loc>/tags/zookeeper/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
+      <loc>/categories/zookeeper/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
+      <loc>/categories/hadoop/</loc><lastmod>2022-10-21T01:12:24&#43;08:00</lastmod></url><url>
+      <loc>/tags/hdp/</loc><lastmod>2022-10-20T02:16:22&#43;08:00</lastmod></url><url>
+      <loc>/posts/hadoop/hdp_sh/</loc><lastmod>2022-10-20T02:16:22&#43;08:00</lastmod></url><url>
+      <loc>/categories/script/</loc><lastmod>2022-10-20T02:16:22&#43;08:00</lastmod></url><url>
+      <loc>/tags/%E6%A0%BC%E5%BC%8F%E5%8C%96hadoop/</loc><lastmod>2022-10-20T02:55:49&#43;08:00</lastmod></url><url>
+      <loc>/posts/hadoop/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AF%E5%8A%A8%E6%A0%BC%E5%BC%8F%E5%8C%96hadoop/</loc><lastmod>2022-10-20T02:55:49&#43;08:00</lastmod></url><url>
+      <loc>/tags/workers/</loc><lastmod>2022-10-20T01:46:46&#43;08:00</lastmod></url><url>
+      <loc>/posts/hadoop/workers/</loc><lastmod>2022-10-20T01:46:46&#43;08:00</lastmod></url><url>
+      <loc>/posts/sql/init_sql/</loc><lastmod>2022-10-20T01:31:50&#43;08:00</lastmod></url><url>
+      <loc>/tags/init.sql/</loc><lastmod>2022-10-20T01:31:50&#43;08:00</lastmod></url><url>
+      <loc>/categories/init.sql/</loc><lastmod>2022-10-20T01:31:50&#43;08:00</lastmod></url><url>
       <loc>/tags/xsync/</loc><lastmod>2022-10-19T21:23:29&#43;08:00</lastmod></url><url>
       <loc>/posts/script/xsync/</loc><lastmod>2022-10-19T21:23:29&#43;08:00</lastmod></url><url>
-      <loc>/categories/hadoop/</loc><lastmod>2022-10-20T00:07:05&#43;08:00</lastmod></url><url>
-      <loc>/tags/hdfs/</loc><lastmod>2022-10-19T21:08:29&#43;08:00</lastmod></url><url>
-      <loc>/posts/hadoop/hdfs/</loc><lastmod>2022-10-19T21:08:29&#43;08:00</lastmod></url><url>
-      <loc>/tags/yarn/</loc><lastmod>2022-10-19T21:12:11&#43;08:00</lastmod></url><url>
-      <loc>/posts/hadoop/yarn/</loc><lastmod>2022-10-19T21:12:11&#43;08:00</lastmod></url><url>
-      <loc>/tags/map/</loc><lastmod>2022-10-20T00:07:05&#43;08:00</lastmod></url><url>
-      <loc>/posts/hadoop/mapreduce/</loc><lastmod>2022-10-20T00:07:05&#43;08:00</lastmod></url><url>
-      <loc>/tags/core/</loc><lastmod>2022-10-19T21:03:51&#43;08:00</lastmod></url><url>
-      <loc>/posts/hadoop/core/</loc><lastmod>2022-10-19T21:03:51&#43;08:00</lastmod></url><url>
+      <loc>/tags/hdfs/</loc><lastmod>2022-10-21T01:12:24&#43;08:00</lastmod></url><url>
+      <loc>/posts/hadoop/hdfs/</loc><lastmod>2022-10-21T01:12:24&#43;08:00</lastmod></url><url>
+      <loc>/tags/yarn/</loc><lastmod>2022-10-20T01:52:59&#43;08:00</lastmod></url><url>
+      <loc>/posts/hadoop/yarn/</loc><lastmod>2022-10-20T01:52:59&#43;08:00</lastmod></url><url>
+      <loc>/tags/map/</loc><lastmod>2022-10-20T01:50:04&#43;08:00</lastmod></url><url>
+      <loc>/posts/hadoop/mapreduce/</loc><lastmod>2022-10-20T01:50:04&#43;08:00</lastmod></url><url>
+      <loc>/tags/core/</loc><lastmod>2022-10-20T01:40:42&#43;08:00</lastmod></url><url>
+      <loc>/posts/hadoop/core/</loc><lastmod>2022-10-20T01:40:42&#43;08:00</lastmod></url><url>
       <loc>/tags/usful_websites/</loc><lastmod>2022-10-19T23:35:53&#43;08:00</lastmod></url><url>
       <loc>/categories/websites/</loc><lastmod>2022-10-19T23:35:53&#43;08:00</lastmod></url><url>
       <loc>/posts/websites/</loc><lastmod>2022-10-19T23:35:53&#43;08:00</lastmod></url><url>
-      <loc>/tags/install/</loc><lastmod>2022-10-19T21:00:25&#43;08:00</lastmod></url><url>
-      <loc>/categories/install/</loc><lastmod>2022-10-19T21:00:25&#43;08:00</lastmod></url><url>
-      <loc>/posts/linux/install/</loc><lastmod>2022-10-19T21:00:25&#43;08:00</lastmod></url><url>
-      <loc>/tags/linux/</loc><lastmod>2022-10-19T21:00:25&#43;08:00</lastmod></url><url>
-      <loc>/categories/linux/</loc><lastmod>2022-10-19T21:00:25&#43;08:00</lastmod></url><url>
+      <loc>/tags/install/</loc><lastmod>2022-10-21T01:15:52&#43;08:00</lastmod></url><url>
+      <loc>/categories/install/</loc><lastmod>2022-10-21T01:15:52&#43;08:00</lastmod></url><url>
+      <loc>/posts/linux/install/</loc><lastmod>2022-10-21T01:15:52&#43;08:00</lastmod></url><url>
+      <loc>/tags/linux/</loc><lastmod>2022-10-21T01:15:52&#43;08:00</lastmod></url><url>
+      <loc>/categories/linux/</loc><lastmod>2022-10-21T01:15:52&#43;08:00</lastmod></url><url>
       <loc>/tags/apache/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
       <loc>/categories/apache-language-manual/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
       <loc>/tags/flink/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>

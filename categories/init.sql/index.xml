@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>init.sql - Category - wlcome to my Blog ,thank you the world</title>
+    <link>/categories/init.sql/</link>
+    <description>init.sql - Category - wlcome to my Blog ,thank you the world</description>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 20 Oct 2022 01:30:01 &#43;0800</lastBuildDate><atom:link href="/categories/init.sql/" rel="self" type="application/rss+xml" /><item>
+  <title>Init_sql</title>
+  <link>/posts/sql/init_sql/</link>
+  <pubDate>Thu, 20 Oct 2022 01:30:01 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/sql/init_sql/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
