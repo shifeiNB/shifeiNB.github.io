@@ -3,10 +3,26 @@
     <title>wlcome to my Blog ,thank you the world</title>
     <link>/</link>
     <description>show something about bigdata</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</lastBuildDate>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-  <title>Install</title>
+  <title>建模建表</title>
+  <link>/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</link>
+  <pubDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>kafka Install</title>
+  <link>/posts/kafka/install/</link>
+  <pubDate>Fri, 21 Oct 2022 08:23:35 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/kafka/install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>zookeeper Install</title>
   <link>/posts/zookeeper/install/</link>
   <pubDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</pubDate>
   <author>Author</author>
@@ -147,22 +163,6 @@
   <pubDate>Tue, 18 Oct 2022 17:01:57 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/script/f1/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>挂载磁盘</title>
-  <link>/posts/linux/%E6%8C%82%E8%BD%BD%E7%A3%81%E7%9B%98/</link>
-  <pubDate>Tue, 18 Oct 2022 16:46:50 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/linux/%E6%8C%82%E8%BD%BD%E7%A3%81%E7%9B%98/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Full_vs_zip</title>
-  <link>/posts/dw/dim/full_vs_zip/</link>
-  <pubDate>Tue, 18 Oct 2022 09:49:20 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/dw/dim/full_vs_zip/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>

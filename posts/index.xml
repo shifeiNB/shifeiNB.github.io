@@ -3,12 +3,28 @@
     <title>All Posts - wlcome to my Blog ,thank you the world</title>
     <link>/posts/</link>
     <description>All Posts | wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>Install</title>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>建模建表</title>
+  <link>/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</link>
+  <pubDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>zookeeper Install</title>
   <link>/posts/zookeeper/install/</link>
   <pubDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/zookeeper/install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>kafka Install</title>
+  <link>/posts/kafka/install/</link>
+  <pubDate>Fri, 21 Oct 2022 08:23:35 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/kafka/install/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -247,7 +263,23 @@
 4.注意点 1 2 3 4 draft: false # 是否为草稿 comments: true showToc: true # 显示目录 TocOpen: true # 自动展开目录 categories: [&#34;hugo&#34;] #注意这里是数组 tags: [&#34;hugo&#34;] 5.直接提交 1 2 3 4 git add . &amp;&amp; git commit -m &#34;go&#34; &amp;&amp; git push &amp;&amp; git remote add origin https://github.com/shifeiNB/shifeiNB.github.io.git &amp;&amp; git pull origin master --allow-unrelated-histories &amp;&amp; git push origin master ]]></description>
 </item>
 <item>
-  <title>Install</title>
+  <title>建模建表</title>
+  <link>/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</link>
+  <pubDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>kafka Install</title>
+  <link>/posts/kafka/install/</link>
+  <pubDate>Fri, 21 Oct 2022 08:23:35 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/kafka/install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>zookeeper Install</title>
   <link>/posts/zookeeper/install/</link>
   <pubDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</pubDate>
   <author>Author</author>
@@ -388,22 +420,6 @@
   <pubDate>Tue, 18 Oct 2022 17:01:57 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/script/f1/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>挂载磁盘</title>
-  <link>/posts/linux/%E6%8C%82%E8%BD%BD%E7%A3%81%E7%9B%98/</link>
-  <pubDate>Tue, 18 Oct 2022 16:46:50 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/linux/%E6%8C%82%E8%BD%BD%E7%A3%81%E7%9B%98/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Full_vs_zip</title>
-  <link>/posts/dw/dim/full_vs_zip/</link>
-  <pubDate>Tue, 18 Oct 2022 09:49:20 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/dw/dim/full_vs_zip/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>

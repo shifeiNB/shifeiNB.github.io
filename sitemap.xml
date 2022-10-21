@@ -2,13 +2,20 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>/categories/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
-      <loc>/posts/zookeeper/install/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
-      <loc>/posts/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
-      <loc>/tags/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
-      <loc>/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
-      <loc>/tags/zookeeper/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
-      <loc>/categories/zookeeper/</loc><lastmod>2022-10-21T01:24:12&#43;08:00</lastmod></url><url>
+      <loc>/categories/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
+      <loc>/categories/dw/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
+      <loc>/categories/dwd/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
+      <loc>/posts/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
+      <loc>/tags/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
+      <loc>/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
+      <loc>/tags/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
+      <loc>/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
+      <loc>/tags/kafka/</loc><lastmod>2022-10-21T08:51:20&#43;08:00</lastmod></url><url>
+      <loc>/categories/kafka/</loc><lastmod>2022-10-21T08:51:20&#43;08:00</lastmod></url><url>
+      <loc>/posts/kafka/install/</loc><lastmod>2022-10-21T08:51:20&#43;08:00</lastmod></url><url>
+      <loc>/tags/zookeeper/</loc><lastmod>2022-10-21T08:53:41&#43;08:00</lastmod></url><url>
+      <loc>/categories/zookeeper/</loc><lastmod>2022-10-21T08:53:41&#43;08:00</lastmod></url><url>
+      <loc>/posts/zookeeper/install/</loc><lastmod>2022-10-21T08:53:41&#43;08:00</lastmod></url><url>
       <loc>/categories/hadoop/</loc><lastmod>2022-10-21T01:12:24&#43;08:00</lastmod></url><url>
       <loc>/tags/hdp/</loc><lastmod>2022-10-20T02:16:22&#43;08:00</lastmod></url><url>
       <loc>/posts/hadoop/hdp_sh/</loc><lastmod>2022-10-20T02:16:22&#43;08:00</lastmod></url><url>
@@ -43,7 +50,6 @@
       <loc>/tags/flink/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
       <loc>/tags/flume/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
       <loc>/tags/hive/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
-      <loc>/tags/kafka/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
       <loc>/posts/language_manual_hive_kafka_hadoop_apache_etc/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
       <loc>/categories/mysql/</loc><lastmod>2022-10-19T16:50:27&#43;08:00</lastmod></url><url>
       <loc>/tags/mysqlinstall/</loc><lastmod>2022-10-19T16:50:27&#43;08:00</lastmod></url><url>
@@ -69,7 +75,6 @@
       <loc>/posts/dw/dim/full_vs_zip/</loc><lastmod>2022-10-18T10:07:16&#43;08:00</lastmod></url><url>
       <loc>/posts/dw/building/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
       <loc>/tags/dw/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
-      <loc>/categories/dw/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
       <loc>/tags/%E9%87%87%E9%9B%86%E6%90%AD%E5%BB%BA/</loc><lastmod>2022-10-18T18:27:06&#43;08:00</lastmod></url><url>
       <loc>/tags/draft/</loc><lastmod>2022-10-18T08:33:19&#43;08:00</lastmod></url><url>
       <loc>/categories/draft/</loc><lastmod>2022-10-18T08:33:19&#43;08:00</lastmod></url><url>

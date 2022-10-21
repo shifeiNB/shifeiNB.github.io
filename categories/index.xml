@@ -3,7 +3,31 @@
     <title>Categories - Category - wlcome to my Blog ,thank you the world</title>
     <link>/categories/</link>
     <description>Categories - Category - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>DW</title>
+  <link>/categories/dw/</link>
+  <pubDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/dw/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>DWD</title>
+  <link>/categories/dwd/</link>
+  <pubDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/dwd/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>kafka</title>
+  <link>/categories/kafka/</link>
+  <pubDate>Fri, 21 Oct 2022 08:23:35 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/kafka/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>zookeeper</title>
   <link>/categories/zookeeper/</link>
   <pubDate>Fri, 21 Oct 2022 01:13:24 &#43;0800</pubDate>
@@ -116,14 +140,6 @@
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>DW</title>
-  <link>/categories/dw/</link>
-  <pubDate>Tue, 18 Oct 2022 00:00:01 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/dw/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
   <title>draft</title>
   <link>/categories/draft/</link>
   <pubDate>Mon, 17 Oct 2022 21:25:07 &#43;0800</pubDate>
@@ -145,22 +161,6 @@
   <pubDate>Mon, 17 Oct 2022 12:03:11 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/categories/hive/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>spark</title>
-  <link>/categories/spark/</link>
-  <pubDate>Mon, 17 Oct 2022 12:03:11 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/spark/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>hugo</title>
-  <link>/categories/hugo/</link>
-  <pubDate>Sun, 16 Oct 2022 13:30:45 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/hugo/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
