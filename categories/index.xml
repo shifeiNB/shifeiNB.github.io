@@ -3,7 +3,95 @@
     <title>Categories - Category - wlcome to my Blog ,thank you the world</title>
     <link>/categories/</link>
     <description>Categories - Category - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 24 Oct 2022 13:23:26 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>spark_init</title>
+  <link>/categories/spark_init/</link>
+  <pubDate>Mon, 24 Oct 2022 13:23:26 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/spark_init/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>datax</title>
+  <link>/categories/datax/</link>
+  <pubDate>Sun, 23 Oct 2022 21:54:12 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/datax/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>python_mysql</title>
+  <link>/categories/python_mysql/</link>
+  <pubDate>Sat, 22 Oct 2022 00:54:55 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/python_mysql/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>f2</title>
+  <link>/categories/f2/</link>
+  <pubDate>Fri, 21 Oct 2022 21:01:35 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/f2/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>下游</title>
+  <link>/categories/%E4%B8%8B%E6%B8%B8/</link>
+  <pubDate>Fri, 21 Oct 2022 21:01:35 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/%E4%B8%8B%E6%B8%B8/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>maxwell</title>
+  <link>/categories/maxwell/</link>
+  <pubDate>Fri, 21 Oct 2022 18:43:49 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/maxwell/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>mysql</title>
+  <link>/categories/mysql/</link>
+  <pubDate>Fri, 21 Oct 2022 18:43:49 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/mysql/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>数据采集</title>
+  <link>/categories/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/</link>
+  <pubDate>Fri, 21 Oct 2022 18:43:49 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>flume</title>
+  <link>/categories/flume/</link>
+  <pubDate>Fri, 21 Oct 2022 15:13:11 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/flume/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>kafka</title>
+  <link>/categories/kafka/</link>
+  <pubDate>Fri, 21 Oct 2022 15:13:11 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/kafka/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>maven</title>
+  <link>/categories/maven/</link>
+  <pubDate>Fri, 21 Oct 2022 12:27:13 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/categories/maven/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>DW</title>
   <link>/categories/dw/</link>
   <pubDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</pubDate>
@@ -17,14 +105,6 @@
   <pubDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/categories/dwd/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>kafka</title>
-  <link>/categories/kafka/</link>
-  <pubDate>Fri, 21 Oct 2022 08:23:35 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/kafka/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -81,86 +161,6 @@
   <pubDate>Wed, 19 Oct 2022 16:52:05 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/categories/linux/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Apache language manual</title>
-  <link>/categories/apache-language-manual/</link>
-  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/apache-language-manual/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>mysql</title>
-  <link>/categories/mysql/</link>
-  <pubDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/mysql/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>flume</title>
-  <link>/categories/flume/</link>
-  <pubDate>Tue, 18 Oct 2022 18:38:51 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/flume/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>network</title>
-  <link>/categories/network/</link>
-  <pubDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/network/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>lg.sh</title>
-  <link>/categories/lg.sh/</link>
-  <pubDate>Tue, 18 Oct 2022 17:12:40 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/lg.sh/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>f1.sh</title>
-  <link>/categories/f1.sh/</link>
-  <pubDate>Tue, 18 Oct 2022 17:01:57 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/f1.sh/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>dim</title>
-  <link>/categories/dim/</link>
-  <pubDate>Tue, 18 Oct 2022 09:49:20 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/dim/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>draft</title>
-  <link>/categories/draft/</link>
-  <pubDate>Mon, 17 Oct 2022 21:25:07 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/draft/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>hive on spark</title>
-  <link>/categories/hive-on-spark/</link>
-  <pubDate>Mon, 17 Oct 2022 12:14:58 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/hive-on-spark/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>hive</title>
-  <link>/categories/hive/</link>
-  <pubDate>Mon, 17 Oct 2022 12:03:11 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/categories/hive/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>

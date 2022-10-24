@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+    <meta name="robots" content="noodp" />
+    <title>在pom文件里设置编码格式 - wlcome to my Blog ,thank you the world</title><meta name="author" content="fish">
+<meta name="author-link" content="">
+<meta name="description" content="show something about bigdata" /><meta name="keywords" content='maven' /><meta itemprop="name" content="在pom文件里设置编码格式">
+<meta itemprop="description" content=""><meta itemprop="datePublished" content="2022-10-21T12:27:13+08:00" />
+<meta itemprop="dateModified" content="2022-10-21T12:30:29+08:00" />
+<meta itemprop="wordCount" content="22">
+<meta itemprop="keywords" content="maven," /><meta property="og:title" content="在pom文件里设置编码格式" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/maven/%E5%9C%A8pom%E6%96%87%E4%BB%B6%E9%87%8C%E8%AE%BE%E7%BD%AE%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-10-21T12:27:13+08:00" />
+<meta property="article:modified_time" content="2022-10-21T12:30:29+08:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="在pom文件里设置编码格式"/>
+<meta name="twitter:description" content=""/>
+<meta name="application-name" content="things  going on">
+<meta name="apple-mobile-web-app-title" content="things  going on"><meta name="theme-color" data-light="#ffffff" data-dark="#252627" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="canonical" href="/posts/maven/%E5%9C%A8pom%E6%96%87%E4%BB%B6%E9%87%8C%E8%AE%BE%E7%BD%AE%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F/" /><link rel="prev" href="/posts/flume/install/" /><link rel="next" href="/posts/flume/log_kafka/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "在pom文件里设置编码格式",
+    "inLanguage": "",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "\/posts\/maven\/%E5%9C%A8pom%E6%96%87%E4%BB%B6%E9%87%8C%E8%AE%BE%E7%BD%AE%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F\/"
+    },"genre": "posts","keywords": "maven","wordcount":  22 ,
+    "url": "\/posts\/maven\/%E5%9C%A8pom%E6%96%87%E4%BB%B6%E9%87%8C%E8%AE%BE%E7%BD%AE%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F\/","datePublished": "2022-10-21T12:27:13+08:00","dateModified": "2022-10-21T12:30:29+08:00","publisher": {
+      "@type": "Organization",
+      "name": ""},"author": {
+        "@type": "Person",
+        "name": "fish"
+      },"description": ""
+  }
+  </script></head>
+  <body data-header-desktop="sticky" data-header-mobile="auto"><script>(window.localStorage?.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('data-theme', 'dark');</script><div class="wrapper"><header class="desktop animate__faster" id="header-desktop">
+  <div class="header-wrapper">
+    <div class="header-title">
+      <a href="/" title="wlcome to my Blog ,thank you the world"><img
+    class="lazyload logo"
+    src="/svg/loading.min.svg"
+    data-src="/fixit.min.svg"
+    data-srcset="/fixit.min.svg, /fixit.min.svg 1.5x, /fixit.min.svg 2x"
+    data-sizes="auto"
+    alt="wlcome to my Blog ,thank you the world"
+    title="wlcome to my Blog ,thank you the world"/><span class="header-title-text">keep going</span></a><span class="header-subtitle"></span></div>
+    <nav>
+      <ul class="menu"><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/posts/"
+                
+                
+              ><i class="fa-solid fa-archive fa-fw fa-sm" aria-hidden="true"></i> 所有文章</a></li><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/categories/"
+                
+                
+              ><i class="fa-solid fa-th fa-fw fa-sm" aria-hidden="true"></i> 分类</a></li><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/tags/"
+                
+                
+              ><i class="fa-solid fa-tags fa-fw fa-sm" aria-hidden="true"></i> 标签</a></li><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/guestbook/"
+                
+                
+              ><i class="fa-solid fa-comments fa-fw fa-sm" aria-hidden="true"></i> 留言</a></li><li class="menu-item has-children">
+              <a
+                class="menu-link"
+                href="/about/"
+                
+                
+              ><i class="fa-solid fa-user-tie fa-fw fa-sm" aria-hidden="true"></i> 關於</a><i class="dropdown-icon fa-solid fa-chevron-down" aria-hidden="true"></i>
+                <ul class="sub-menu">
+                  <li
+                        class="menu-item"
+                      >
+                        <a
+                          class="menu-link"
+                          href="/https:/img.lruihao.cn"
+                          title="COS Album"
+                          
+                        ><i class="fa-solid fa-photo-video fa-fw fa-sm" aria-hidden="true"></i> 相册</a>
+                      </li></ul></li><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/archives/"
+                
+                
+              >⏱时间轴</a></li><li class="menu-item delimiter"></li><li class="menu-item search" id="search-desktop">
+            <input type="text" placeholder="Search titles or contents ..." id="search-input-desktop">
+            <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
+              <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+            </a>
+            <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+              <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+            </a>
+            <span class="search-button search-loading" id="search-loading-desktop">
+              <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+            </span>
+          </li><li class="menu-item theme-switch" title="Switch Theme">
+          <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header><header class="mobile animate__faster" id="header-mobile">
+  <div class="header-container">
+    <div class="header-wrapper">
+      <div class="header-title">
+        <a href="/" title="wlcome to my Blog ,thank you the world"><img
+    class="lazyload logo"
+    src="/svg/loading.min.svg"
+    data-src="/fixit.min.svg"
+    data-srcset="/fixit.min.svg, /fixit.min.svg 1.5x, /fixit.min.svg 2x"
+    data-sizes="auto"
+    alt="/fixit.min.svg"
+    title="/fixit.min.svg"/><span class="header-title-text">keep going</span></a><span class="header-subtitle"></span></div>
+      <div class="menu-toggle" id="menu-toggle-mobile">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+    <nav>
+      <ul class="menu" id="menu-mobile"><li class="search-wrapper">
+            <div class="search mobile" id="search-mobile">
+              <input type="text" placeholder="Search titles or contents ..." id="search-input-mobile">
+              <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
+                <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+              </a>
+              <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+              </a>
+              <span class="search-button search-loading" id="search-loading-mobile">
+                <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+              </span>
+            </div>
+            <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+              Cancel
+            </a>
+          </li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/posts/"
+                  
+                  
+                ><i class="fa-solid fa-archive fa-fw fa-sm" aria-hidden="true"></i> 所有文章</a></li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/categories/"
+                  
+                  
+                ><i class="fa-solid fa-th fa-fw fa-sm" aria-hidden="true"></i> 分类</a></li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/tags/"
+                  
+                  
+                ><i class="fa-solid fa-tags fa-fw fa-sm" aria-hidden="true"></i> 标签</a></li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/guestbook/"
+                  
+                  
+                ><i class="fa-solid fa-comments fa-fw fa-sm" aria-hidden="true"></i> 留言</a></li><li
+              class="menu-item"
+            ><span class="nested-item">
+                  <a
+                    class="menu-link"
+                    href="/about/"
+                    
+                    
+                  ><i class="fa-solid fa-user-tie fa-fw fa-sm" aria-hidden="true"></i> 關於</a>
+                  <i class="dropdown-icon fa-solid fa-chevron-right" aria-hidden="true"></i>
+                </span>
+                <ul class="sub-menu">
+                  <li
+                        class="menu-item"
+                      >
+                        <a
+                          class="menu-link"
+                          href="/https:/img.lruihao.cn"
+                          title="COS Album"
+                          
+                        ><i class="fa-solid fa-photo-video fa-fw fa-sm" aria-hidden="true"></i> 相册</a>
+                      </li></ul></li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/archives/"
+                  
+                  
+                >⏱时间轴</a></li><li class="menu-item theme-switch" title="Switch Theme">
+          <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+        </li></ul>
+    </nav>
+  </div>
+</header><div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+  </div>
+  <div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+  </div><main class="container" data-page-style="normal"><aside class="toc" id="toc-auto"></aside>
+
+  <aside class="aside-custom">
+    
+</aside>
+
+  <article class="page single">
+    <div class="header"><h1 class="single-title animate__animated animate__flipInX">
+        <span title="Repost" class="icon-repost"><i class="fa-solid fa-share fa-fw" aria-hidden="true"></i></span><span>在pom文件里设置编码格式</span>
+      </h1></div><div class="post-meta">
+      <div class="post-meta-line"><span class="post-author"><span class="author"><i class="fa-solid fa-user-circle" aria-hidden="true"></i>
+      </span></span>
+          <span class="post-category">included in <a href="/categories/maven/"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> maven</a></span></div>
+      <div class="post-meta-line"><span title=2022-10-21&#32;12:27:13><i class="fa-regular fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-10-21">2022-10-21</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i> 22 words</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw" aria-hidden="true"></i> One minute</span>&nbsp;</div>
+    </div><div
+      class="content"
+      id="content"
+      
+      
+    ><div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
+</span><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">9
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-xml" data-lang="xml"><span style="display:flex;"><span><span style="color:#000080">&lt;properties&gt;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#998;font-style:italic">&lt;!-- 文件拷贝时的编码 --&gt;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000080">&lt;project.build.sourceEncoding&gt;</span>UTF-8<span style="color:#000080">&lt;/project.build.sourceEncoding&gt;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000080">&lt;project.reporting.outputEncoding&gt;</span>UTF-8<span style="color:#000080">&lt;/project.reporting.outputEncoding&gt;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#998;font-style:italic">&lt;!-- 编译时的编码 --&gt;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000080">&lt;maven.compiler.encoding&gt;</span>UTF-8<span style="color:#000080">&lt;/maven.compiler.encoding&gt;</span>  
+</span></span><span style="display:flex;"><span>     	<span style="color:#000080">&lt;maven.compiler.target&gt;</span>8<span style="color:#000080">&lt;/maven.compiler.target&gt;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000080">&lt;maven.compiler.source&gt;</span>8<span style="color:#000080">&lt;/maven.compiler.source&gt;</span>
+</span></span><span style="display:flex;"><span><span style="color:#000080">&lt;/properties&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div></div><div class="post-footer" id="post-footer">
+  <div class="post-info">
+    <div class="post-info-line">
+      <div class="post-info-mod">
+        <span title=2022-10-21&#32;12:30:29>Updated on 2022-10-21&nbsp;</span>
+      </div></div>
+    <div class="post-info-line">
+      <div class="post-info-md"></div>
+      <div class="post-info-share">
+        <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="/posts/maven/%E5%9C%A8pom%E6%96%87%E4%BB%B6%E9%87%8C%E8%AE%BE%E7%BD%AE%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F/" data-title="在pom文件里设置编码格式" data-hashtags="maven"><i class="fa-brands fa-twitter fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="/posts/maven/%E5%9C%A8pom%E6%96%87%E4%BB%B6%E9%87%8C%E8%AE%BE%E7%BD%AE%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F/" data-hashtag="maven"><i class="fa-brands fa-facebook-square fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="/posts/maven/%E5%9C%A8pom%E6%96%87%E4%BB%B6%E9%87%8C%E8%AE%BE%E7%BD%AE%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F/" data-title="在pom文件里设置编码格式"><i class="fa-brands fa-weibo fa-fw" aria-hidden="true"></i></a>
+  </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="post-info-more">
+    <section class="post-tags"><i class="fa-solid fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/maven/">maven</a></section>
+    <section>
+      <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+    </section>
+  </div>
+
+  <div class="post-nav"><a href="/posts/flume/install/" class="prev" rel="prev" title="flume Install"><i class="fa-solid fa-angle-left fa-fw" aria-hidden="true"></i>flume Install</a>
+      <a href="/posts/flume/log_kafka/" class="next" rel="next" title="上游f1.sh,Log_kafka.conf">上游f1.sh,Log_kafka.conf<i class="fa-solid fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+</div>
+</article></main><footer class="footer">
+    <div class="footer-container"><div class="footer-line powered">Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreferrer" title="Hugo 0.104.3">Hugo</a> | Theme - <a href="https://github.com/hugo-fixit/FixIt" target="_blank" rel="external" title="FixIt v0.2.17-RC"><img class="fixit-icon" src="/fixit.min.svg" alt="FixIt logo" />&nbsp;FixIt</a>
+        </div><div class="footer-line copyright" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw" aria-hidden="true"></i>
+            <span itemprop="copyrightYear">2018 - 2022</span><span class="author" itemprop="copyrightHolder">
+              <a href="/">fish</a></span><span class="license footer-divider"><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div><div class="footer-line statistics"><span class="site-time" title='Website running ...'><i class="fa-solid fa-heartbeat fa-fw animate-icon" aria-hidden="true"></i>&nbsp;<span class="run-times">Website running ...</span></span></div></div>
+  </footer></div><div class="widgets"><div class="fixed-buttons animate__faster d-none"><div class="fixed-button back-to-top" role="button" aria-label="Back to Top"><i class="fa-solid fa-arrow-up fa-fw" aria-hidden="true"></i><span class="variant-numeric d-none">0%</span>
+        </div></div><div id="mask"></div><noscript>
+    <div class="noscript-warning">Theme FixIt works best with JavaScript enabled.</div>
+  </noscript>
+</div><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script src="/lib/autocomplete/autocomplete.min.js" defer></script><script src="/lib/algoliasearch/algoliasearch-lite.umd.min.js" defer></script><script src="/lib/lazysizes/lazysizes.min.js" async defer></script><script src="/lib/sharer/sharer.min.js" async defer></script><script src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script>window.config={"code":{"copyTitle":"Copy to clipboard","editLockTitle":"Lock editable code block","editUnLockTitle":"Unlock editable code block","editable":true,"maxShownLines":10},"comment":{"enable":false},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"This website uses Cookies to improve your experience."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"search":{"algoliaAppID":"MTJNHU0JVB","algoliaIndex":"index","algoliaSearchKey":"5486225134d99f43826da401ee9bad57","highlightTag":"em","maxResultLength":10,"noResultsFound":"No results found","snippetLength":50,"type":"algolia"},"siteTime":"2018-05-28T20:01:01+08:00"};</script><script src="/js/theme.min.js" defer></script></body>
+</html>

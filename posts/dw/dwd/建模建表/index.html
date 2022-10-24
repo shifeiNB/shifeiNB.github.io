@@ -9,14 +9,14 @@
 <meta name="author-link" content="">
 <meta name="description" content="show something about bigdata" /><meta name="keywords" content='建模建表' /><meta itemprop="name" content="建模建表">
 <meta itemprop="description" content=""><meta itemprop="datePublished" content="2022-10-21T08:56:52+08:00" />
-<meta itemprop="dateModified" content="2022-10-21T09:08:19+08:00" />
-<meta itemprop="wordCount" content="17">
+<meta itemprop="dateModified" content="2022-10-21T12:33:44+08:00" />
+<meta itemprop="wordCount" content="38">
 <meta itemprop="keywords" content="建模建表," /><meta property="og:title" content="建模建表" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-10-21T08:56:52+08:00" />
-<meta property="article:modified_time" content="2022-10-21T09:08:19+08:00" />
+<meta property="article:modified_time" content="2022-10-21T12:33:44+08:00" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="建模建表"/>
@@ -24,7 +24,7 @@
 <meta name="application-name" content="things  going on">
 <meta name="apple-mobile-web-app-title" content="things  going on"><meta name="theme-color" data-light="#ffffff" data-dark="#252627" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="canonical" href="/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/" /><link rel="prev" href="/posts/kafka/install/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="canonical" href="/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/" /><link rel="prev" href="/posts/kafka/install/" /><link rel="next" href="/posts/flume/install/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "BlogPosting",
@@ -33,8 +33,8 @@
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "\/posts\/dw\/dwd\/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8\/"
-    },"genre": "posts","keywords": "建模建表","wordcount":  17 ,
-    "url": "\/posts\/dw\/dwd\/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8\/","datePublished": "2022-10-21T08:56:52+08:00","dateModified": "2022-10-21T09:08:19+08:00","publisher": {
+    },"genre": "posts","keywords": "建模建表","wordcount":  38 ,
+    "url": "\/posts\/dw\/dwd\/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8\/","datePublished": "2022-10-21T08:56:52+08:00","dateModified": "2022-10-21T12:33:44+08:00","publisher": {
       "@type": "Organization",
       "name": ""},"author": {
         "@type": "Person",
@@ -231,7 +231,7 @@
       <div class="post-meta-line"><span class="post-author"><span class="author"><i class="fa-solid fa-user-circle" aria-hidden="true"></i>
       </span></span>
           <span class="post-category">included in <a href="/categories/dw/"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> DW</a>&ensp;<a href="/categories/dwd/"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> DWD</a></span></div>
-      <div class="post-meta-line"><span title=2022-10-21&#32;08:56:52><i class="fa-regular fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-10-21">2022-10-21</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i> 17 words</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw" aria-hidden="true"></i> One minute</span>&nbsp;</div>
+      <div class="post-meta-line"><span title=2022-10-21&#32;08:56:52><i class="fa-regular fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-10-21">2022-10-21</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i> 38 words</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw" aria-hidden="true"></i> One minute</span>&nbsp;</div>
     </div><div class="details toc" id="toc-static" data-kept="false">
         <div class="details-summary toc-title">
           <span>Contents</span>
@@ -244,6 +244,8 @@
     <li><a href="#3">3.</a></li>
     <li><a href="#4交易域支付成功事务实时">4.交易域支付成功事务实时</a></li>
     <li><a href="#5交易域购物车周期快照事实表">5.交易域购物车周期快照事实表</a></li>
+    <li><a href="#6消费券">6.消费券</a></li>
+    <li><a href="#7收藏统计">7.收藏统计</a></li>
   </ul>
 </nav></div>
       </div><div
@@ -251,7 +253,9 @@
       id="content"
       
       
-    ><h2 id="1建模要点">1.建模要点</h2>
+    ><!-- raw HTML omitted -->
+<p>—— 诗经<!-- raw HTML omitted --></p>
+<h2 id="1建模要点">1.建模要点</h2>
 <h2 id="2">2.</h2>
 <h2 id="3">3.</h2>
 <h2 id="4交易域支付成功事务实时">4.交易域支付成功事务实时</h2>
@@ -262,18 +266,14 @@
 </ol>
 <h2 id="5交易域购物车周期快照事实表">5.交易域购物车周期快照事实表</h2>
 <ol>
-<li>
-<p>业务关系</p>
-</li>
-<li>
-<p>难点</p>
+<li>业务关系</li>
+<li>难点
 <ol>
 <li>保存难，频繁修改慢</li>
 <li>需要修改的订单放到9999分区里面去</li>
 </ol>
 </li>
-<li>
-<p>分区策略</p>
+<li>分区策略
 <ol>
 <li>首日分区
 <ol>
@@ -288,12 +288,50 @@
 </li>
 </ol>
 </li>
+</ol>
+<h2 id="6消费券">6.消费券</h2>
+<ol>
+<li>消费券的状态
+<ol>
+<li>已使用
+<ol>
+<li>已领取</li>
+<li>已下单</li>
+</ol>
+</li>
+<li>未使用</li>
+</ol>
+</li>
+<li>时间
+<ol>
+<li>创建时间</li>
+<li>获取时间</li>
+<li>过期时间</li>
+<li>正在使用时间</li>
+<li>已支付的时间</li>
+</ol>
+</li>
+<li>取数据
+<ol>
+<li>取出首日的数据
+<ol>
+<li>按时间字段</li>
+<li>select</li>
+</ol>
+</li>
+<li>取出每日的数据</li>
+</ol>
+</li>
+</ol>
+<h2 id="7收藏统计">7.收藏统计</h2>
+<ol>
+<li>收藏次数</li>
 <li></li>
 </ol></div><div class="post-footer" id="post-footer">
   <div class="post-info">
     <div class="post-info-line">
       <div class="post-info-mod">
-        <span title=2022-10-21&#32;09:08:19>Updated on 2022-10-21&nbsp;</span>
+        <span title=2022-10-21&#32;12:33:44>Updated on 2022-10-21&nbsp;</span>
       </div></div>
     <div class="post-info-line">
       <div class="post-info-md"></div>
@@ -313,7 +351,8 @@
     </section>
   </div>
 
-  <div class="post-nav"><a href="/posts/kafka/install/" class="prev" rel="prev" title="kafka Install"><i class="fa-solid fa-angle-left fa-fw" aria-hidden="true"></i>kafka Install</a></div>
+  <div class="post-nav"><a href="/posts/kafka/install/" class="prev" rel="prev" title="kafka Install"><i class="fa-solid fa-angle-left fa-fw" aria-hidden="true"></i>kafka Install</a>
+      <a href="/posts/flume/install/" class="next" rel="next" title="flume Install">flume Install<i class="fa-solid fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
 </div>
 </article></main><footer class="footer">
     <div class="footer-container"><div class="footer-line powered">Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreferrer" title="Hugo 0.104.3">Hugo</a> | Theme - <a href="https://github.com/hugo-fixit/FixIt" target="_blank" rel="external" title="FixIt v0.2.17-RC"><img class="fixit-icon" src="/fixit.min.svg" alt="FixIt logo" />&nbsp;FixIt</a>

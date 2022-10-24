@@ -3,7 +3,23 @@
     <title>flume - Category - wlcome to my Blog ,thank you the world</title>
     <link>/categories/flume/</link>
     <description>flume - Category - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 18 Oct 2022 18:38:51 &#43;0800</lastBuildDate><atom:link href="/categories/flume/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 15:13:11 &#43;0800</lastBuildDate><atom:link href="/categories/flume/" rel="self" type="application/rss+xml" /><item>
+  <title>上游f1.sh,Log_kafka.conf</title>
+  <link>/posts/flume/log_kafka/</link>
+  <pubDate>Fri, 21 Oct 2022 15:13:11 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/flume/log_kafka/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>flume Install</title>
+  <link>/posts/flume/install/</link>
+  <pubDate>Fri, 21 Oct 2022 09:32:40 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/flume/install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Flume将数据写入到kafka</title>
   <link>/posts/flume/flume/</link>
   <pubDate>Tue, 18 Oct 2022 18:38:51 &#43;0800</pubDate>

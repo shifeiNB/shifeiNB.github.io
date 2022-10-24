@@ -2,16 +2,44 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>/categories/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
-      <loc>/categories/dw/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
-      <loc>/categories/dwd/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
-      <loc>/posts/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
-      <loc>/tags/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
-      <loc>/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
-      <loc>/tags/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
-      <loc>/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</loc><lastmod>2022-10-21T09:08:19&#43;08:00</lastmod></url><url>
-      <loc>/tags/kafka/</loc><lastmod>2022-10-21T08:51:20&#43;08:00</lastmod></url><url>
-      <loc>/categories/kafka/</loc><lastmod>2022-10-21T08:51:20&#43;08:00</lastmod></url><url>
+      <loc>/categories/</loc><lastmod>2022-10-24T13:27:40&#43;08:00</lastmod></url><url>
+      <loc>/posts/hive/spark_init/</loc><lastmod>2022-10-24T13:27:40&#43;08:00</lastmod></url><url>
+      <loc>/posts/</loc><lastmod>2022-10-24T13:27:40&#43;08:00</lastmod></url><url>
+      <loc>/tags/saprk_init/</loc><lastmod>2022-10-24T13:27:40&#43;08:00</lastmod></url><url>
+      <loc>/categories/spark_init/</loc><lastmod>2022-10-24T13:27:40&#43;08:00</lastmod></url><url>
+      <loc>/tags/</loc><lastmod>2022-10-24T13:27:40&#43;08:00</lastmod></url><url>
+      <loc>/</loc><lastmod>2022-10-24T13:27:40&#43;08:00</lastmod></url><url>
+      <loc>/tags/datax/</loc><lastmod>2022-10-24T08:26:46&#43;08:00</lastmod></url><url>
+      <loc>/categories/datax/</loc><lastmod>2022-10-24T08:26:46&#43;08:00</lastmod></url><url>
+      <loc>/posts/dw/%E5%85%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5/</loc><lastmod>2022-10-24T08:26:46&#43;08:00</lastmod></url><url>
+      <loc>/tags/hdfa%E5%85%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5/</loc><lastmod>2022-10-24T08:26:46&#43;08:00</lastmod></url><url>
+      <loc>/tags/python/</loc><lastmod>2022-10-22T01:56:28&#43;08:00</lastmod></url><url>
+      <loc>/categories/python_mysql/</loc><lastmod>2022-10-22T01:56:28&#43;08:00</lastmod></url><url>
+      <loc>/posts/python_script/</loc><lastmod>2022-10-22T01:56:28&#43;08:00</lastmod></url><url>
+      <loc>/tags/f2/</loc><lastmod>2022-10-21T21:31:09&#43;08:00</lastmod></url><url>
+      <loc>/categories/f2/</loc><lastmod>2022-10-21T21:31:09&#43;08:00</lastmod></url><url>
+      <loc>/posts/flume/f2/</loc><lastmod>2022-10-21T21:31:09&#43;08:00</lastmod></url><url>
+      <loc>/categories/%E4%B8%8B%E6%B8%B8/</loc><lastmod>2022-10-21T21:31:09&#43;08:00</lastmod></url><url>
+      <loc>/tags/maxwell/</loc><lastmod>2022-10-21T21:01:12&#43;08:00</lastmod></url><url>
+      <loc>/categories/maxwell/</loc><lastmod>2022-10-21T21:01:12&#43;08:00</lastmod></url><url>
+      <loc>/tags/mysql/</loc><lastmod>2022-10-21T21:01:12&#43;08:00</lastmod></url><url>
+      <loc>/categories/mysql/</loc><lastmod>2022-10-21T21:01:12&#43;08:00</lastmod></url><url>
+      <loc>/tags/%E4%B8%9A%E5%8A%A1/</loc><lastmod>2022-10-21T21:01:12&#43;08:00</lastmod></url><url>
+      <loc>/posts/%E4%B8%9A%E5%8A%A1%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/</loc><lastmod>2022-10-21T21:01:12&#43;08:00</lastmod></url><url>
+      <loc>/categories/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/</loc><lastmod>2022-10-21T21:01:12&#43;08:00</lastmod></url><url>
+      <loc>/categories/flume/</loc><lastmod>2022-10-21T18:39:41&#43;08:00</lastmod></url><url>
+      <loc>/tags/kafka/</loc><lastmod>2022-10-21T18:39:41&#43;08:00</lastmod></url><url>
+      <loc>/categories/kafka/</loc><lastmod>2022-10-21T18:39:41&#43;08:00</lastmod></url><url>
+      <loc>/posts/flume/log_kafka/</loc><lastmod>2022-10-21T18:39:41&#43;08:00</lastmod></url><url>
+      <loc>/tags/maven/</loc><lastmod>2022-10-21T12:30:29&#43;08:00</lastmod></url><url>
+      <loc>/categories/maven/</loc><lastmod>2022-10-21T12:30:29&#43;08:00</lastmod></url><url>
+      <loc>/posts/maven/%E5%9C%A8pom%E6%96%87%E4%BB%B6%E9%87%8C%E8%AE%BE%E7%BD%AE%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F/</loc><lastmod>2022-10-21T12:30:29&#43;08:00</lastmod></url><url>
+      <loc>/tags/flume/</loc><lastmod>2022-10-21T09:53:52&#43;08:00</lastmod></url><url>
+      <loc>/posts/flume/install/</loc><lastmod>2022-10-21T09:53:52&#43;08:00</lastmod></url><url>
+      <loc>/categories/dw/</loc><lastmod>2022-10-21T12:33:44&#43;08:00</lastmod></url><url>
+      <loc>/categories/dwd/</loc><lastmod>2022-10-21T12:33:44&#43;08:00</lastmod></url><url>
+      <loc>/tags/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</loc><lastmod>2022-10-21T12:33:44&#43;08:00</lastmod></url><url>
+      <loc>/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</loc><lastmod>2022-10-21T12:33:44&#43;08:00</lastmod></url><url>
       <loc>/posts/kafka/install/</loc><lastmod>2022-10-21T08:51:20&#43;08:00</lastmod></url><url>
       <loc>/tags/zookeeper/</loc><lastmod>2022-10-21T08:53:41&#43;08:00</lastmod></url><url>
       <loc>/categories/zookeeper/</loc><lastmod>2022-10-21T08:53:41&#43;08:00</lastmod></url><url>
@@ -48,13 +76,10 @@
       <loc>/tags/apache/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
       <loc>/categories/apache-language-manual/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
       <loc>/tags/flink/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
-      <loc>/tags/flume/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
       <loc>/tags/hive/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
       <loc>/posts/language_manual_hive_kafka_hadoop_apache_etc/</loc><lastmod>2022-10-19T15:09:27&#43;08:00</lastmod></url><url>
-      <loc>/categories/mysql/</loc><lastmod>2022-10-19T16:50:27&#43;08:00</lastmod></url><url>
       <loc>/tags/mysqlinstall/</loc><lastmod>2022-10-19T16:50:27&#43;08:00</lastmod></url><url>
       <loc>/posts/mysql/zailaiiyici/</loc><lastmod>2022-10-19T16:50:27&#43;08:00</lastmod></url><url>
-      <loc>/categories/flume/</loc><lastmod>2022-10-18T20:49:22&#43;08:00</lastmod></url><url>
       <loc>/tags/flume_kafkaflume%E7%9A%84%E4%B8%A4%E7%A7%8D%E5%86%99/</loc><lastmod>2022-10-18T20:49:22&#43;08:00</lastmod></url><url>
       <loc>/posts/flume/flume/</loc><lastmod>2022-10-18T20:49:22&#43;08:00</lastmod></url><url>
       <loc>/tags/linux%E8%BF%9E%E6%8E%A5%E7%BD%91%E7%BB%9C/</loc><lastmod>2022-10-18T19:20:48&#43;08:00</lastmod></url><url>
@@ -92,8 +117,8 @@
       <loc>/categories/hive/</loc><lastmod>2022-10-17T12:06:08&#43;08:00</lastmod></url><url>
       <loc>/posts/dw/ods/ods/</loc><lastmod>2022-10-17T12:06:08&#43;08:00</lastmod></url><url>
       <loc>/categories/spark/</loc><lastmod>2022-10-17T12:06:08&#43;08:00</lastmod></url><url>
-      <loc>/tags/hugo/</loc><lastmod>2022-10-16T17:36:03&#43;08:00</lastmod></url><url>
-      <loc>/categories/hugo/</loc><lastmod>2022-10-16T17:36:03&#43;08:00</lastmod></url><url>
-      <loc>/posts/hugo/</loc><lastmod>2022-10-16T15:54:39&#43;08:00</lastmod></url><url>
+      <loc>/tags/hugo/</loc><lastmod>2022-10-21T09:28:15&#43;08:00</lastmod></url><url>
+      <loc>/categories/hugo/</loc><lastmod>2022-10-21T09:28:15&#43;08:00</lastmod></url><url>
+      <loc>/posts/hugo/</loc><lastmod>2022-10-21T09:28:15&#43;08:00</lastmod></url><url>
       <loc>/posts/hello/</loc><lastmod>2022-10-16T17:36:03&#43;08:00</lastmod></url><url>
       <loc>/posts/dw/%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/%E9%87%87%E9%9B%86%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA/</loc><lastmod>2022-10-17T23:58:17&#43;08:00</lastmod></url></urlset>

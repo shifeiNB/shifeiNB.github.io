@@ -3,20 +3,100 @@
     <title>Tags - Tag - wlcome to my Blog ,thank you the world</title>
     <link>/tags/</link>
     <description>Tags - Tag - wlcome to my Blog ,thank you the world</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
-  <title>建模建表</title>
-  <link>/tags/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</link>
-  <pubDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</pubDate>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 24 Oct 2022 13:23:26 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>saprk_init</title>
+  <link>/tags/saprk_init/</link>
+  <pubDate>Mon, 24 Oct 2022 13:23:26 &#43;0800</pubDate>
   <author>fish</author>
-  <guid>/tags/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</guid>
+  <guid>/tags/saprk_init/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>datax</title>
+  <link>/tags/datax/</link>
+  <pubDate>Sun, 23 Oct 2022 21:54:12 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/datax/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>hdfa全量数据导入</title>
+  <link>/tags/hdfa%E5%85%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5/</link>
+  <pubDate>Sun, 23 Oct 2022 21:54:12 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/hdfa%E5%85%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>python</title>
+  <link>/tags/python/</link>
+  <pubDate>Sat, 22 Oct 2022 00:54:55 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/python/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>f2</title>
+  <link>/tags/f2/</link>
+  <pubDate>Fri, 21 Oct 2022 21:01:35 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/f2/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>maxwell</title>
+  <link>/tags/maxwell/</link>
+  <pubDate>Fri, 21 Oct 2022 18:43:49 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/maxwell/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>mysql</title>
+  <link>/tags/mysql/</link>
+  <pubDate>Fri, 21 Oct 2022 18:43:49 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/mysql/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>业务</title>
+  <link>/tags/%E4%B8%9A%E5%8A%A1/</link>
+  <pubDate>Fri, 21 Oct 2022 18:43:49 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/%E4%B8%9A%E5%8A%A1/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>kafka</title>
   <link>/tags/kafka/</link>
-  <pubDate>Fri, 21 Oct 2022 08:23:35 &#43;0800</pubDate>
+  <pubDate>Fri, 21 Oct 2022 15:13:11 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/tags/kafka/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>maven</title>
+  <link>/tags/maven/</link>
+  <pubDate>Fri, 21 Oct 2022 12:27:13 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/maven/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>flume</title>
+  <link>/tags/flume/</link>
+  <pubDate>Fri, 21 Oct 2022 09:32:40 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/flume/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>建模建表</title>
+  <link>/tags/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</link>
+  <pubDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</pubDate>
+  <author>fish</author>
+  <guid>/tags/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -81,86 +161,6 @@
   <pubDate>Wed, 19 Oct 2022 20:46:00 &#43;0800</pubDate>
   <author>fish</author>
   <guid>/tags/yarn/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>map</title>
-  <link>/tags/map/</link>
-  <pubDate>Wed, 19 Oct 2022 20:45:48 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/map/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>core</title>
-  <link>/tags/core/</link>
-  <pubDate>Wed, 19 Oct 2022 20:45:35 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/core/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>usful_websites</title>
-  <link>/tags/usful_websites/</link>
-  <pubDate>Wed, 19 Oct 2022 18:05:41 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/usful_websites/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>install</title>
-  <link>/tags/install/</link>
-  <pubDate>Wed, 19 Oct 2022 16:52:05 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/install/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Linux</title>
-  <link>/tags/linux/</link>
-  <pubDate>Wed, 19 Oct 2022 16:52:05 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/linux/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Apache</title>
-  <link>/tags/apache/</link>
-  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/apache/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>flink</title>
-  <link>/tags/flink/</link>
-  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/flink/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>flume</title>
-  <link>/tags/flume/</link>
-  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/flume/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>hive</title>
-  <link>/tags/hive/</link>
-  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/hive/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>mysql—install</title>
-  <link>/tags/mysqlinstall/</link>
-  <pubDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</pubDate>
-  <author>fish</author>
-  <guid>/tags/mysqlinstall/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>

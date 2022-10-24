@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>saprk_init - Tag - wlcome to my Blog ,thank you the world</title>
+    <link>/tags/saprk_init/</link>
+    <description>saprk_init - Tag - wlcome to my Blog ,thank you the world</description>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 24 Oct 2022 13:23:26 &#43;0800</lastBuildDate><atom:link href="/tags/saprk_init/" rel="self" type="application/rss+xml" /><item>
+  <title>hive on Spark_init</title>
+  <link>/posts/hive/spark_init/</link>
+  <pubDate>Mon, 24 Oct 2022 13:23:26 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hive/spark_init/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

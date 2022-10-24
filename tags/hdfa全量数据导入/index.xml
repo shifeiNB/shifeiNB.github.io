@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>hdfa全量数据导入 - Tag - wlcome to my Blog ,thank you the world</title>
+    <link>/tags/hdfa%E5%85%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5/</link>
+    <description>hdfa全量数据导入 - Tag - wlcome to my Blog ,thank you the world</description>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 23 Oct 2022 21:54:12 &#43;0800</lastBuildDate><atom:link href="/tags/hdfa%E5%85%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5/" rel="self" type="application/rss+xml" /><item>
+  <title>datax全量数据导入</title>
+  <link>/posts/dw/%E5%85%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5/</link>
+  <pubDate>Sun, 23 Oct 2022 21:54:12 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/dw/%E5%85%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5/</guid>
+  <description><![CDATA[事实表是表状态，用增量，维度表表示变化，用全量数据]]></description>
+</item>
+</channel>
+</rss>

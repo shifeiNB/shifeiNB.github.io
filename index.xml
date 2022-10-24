@@ -3,9 +3,73 @@
     <title>wlcome to my Blog ,thank you the world</title>
     <link>/</link>
     <description>show something about bigdata</description>
-    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 24 Oct 2022 13:23:26 &#43;0800</lastBuildDate>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>hive on Spark_init</title>
+  <link>/posts/hive/spark_init/</link>
+  <pubDate>Mon, 24 Oct 2022 13:23:26 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/hive/spark_init/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>datax全量数据导入</title>
+  <link>/posts/dw/%E5%85%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5/</link>
+  <pubDate>Sun, 23 Oct 2022 21:54:12 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/dw/%E5%85%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5/</guid>
+  <description><![CDATA[事实表是表状态，用增量，维度表表示变化，用全量数据]]></description>
+</item>
+<item>
+  <title>Python_script</title>
+  <link>/posts/python_script/</link>
+  <pubDate>Sat, 22 Oct 2022 00:54:55 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/python_script/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>F2下游topic_log topic_db</title>
+  <link>/posts/flume/f2/</link>
+  <pubDate>Fri, 21 Oct 2022 21:01:35 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/flume/f2/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>业务数据采集</title>
+  <link>/posts/%E4%B8%9A%E5%8A%A1%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/</link>
+  <pubDate>Fri, 21 Oct 2022 18:43:49 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/%E4%B8%9A%E5%8A%A1%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>上游f1.sh,Log_kafka.conf</title>
+  <link>/posts/flume/log_kafka/</link>
+  <pubDate>Fri, 21 Oct 2022 15:13:11 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/flume/log_kafka/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>在pom文件里设置编码格式</title>
+  <link>/posts/maven/%E5%9C%A8pom%E6%96%87%E4%BB%B6%E9%87%8C%E8%AE%BE%E7%BD%AE%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F/</link>
+  <pubDate>Fri, 21 Oct 2022 12:27:13 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/maven/%E5%9C%A8pom%E6%96%87%E4%BB%B6%E9%87%8C%E8%AE%BE%E7%BD%AE%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>flume Install</title>
+  <link>/posts/flume/install/</link>
+  <pubDate>Fri, 21 Oct 2022 09:32:40 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>/posts/flume/install/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>建模建表</title>
   <link>/posts/dw/dwd/%E5%BB%BA%E6%A8%A1%E5%BB%BA%E8%A1%A8/</link>
   <pubDate>Fri, 21 Oct 2022 08:56:52 &#43;0800</pubDate>
@@ -99,70 +163,6 @@
   <pubDate>Wed, 19 Oct 2022 20:45:35 &#43;0800</pubDate>
   <author>Author</author>
   <guid>/posts/hadoop/core/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Websites</title>
-  <link>/posts/websites/</link>
-  <pubDate>Wed, 19 Oct 2022 18:05:41 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/websites/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Install</title>
-  <link>/posts/linux/install/</link>
-  <pubDate>Wed, 19 Oct 2022 16:52:05 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/linux/install/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Language_manual_hive_kafka_hadoop_apache_etc</title>
-  <link>/posts/language_manual_hive_kafka_hadoop_apache_etc/</link>
-  <pubDate>Wed, 19 Oct 2022 14:49:37 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/language_manual_hive_kafka_hadoop_apache_etc/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Zailaiiyici-mysql安装脚本</title>
-  <link>/posts/mysql/zailaiiyici/</link>
-  <pubDate>Wed, 19 Oct 2022 13:55:23 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/mysql/zailaiiyici/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Flume将数据写入到kafka</title>
-  <link>/posts/flume/flume/</link>
-  <pubDate>Tue, 18 Oct 2022 18:38:51 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/flume/flume/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Network_problem,Linux无法联网问题</title>
-  <link>/posts/linux/network_problem/</link>
-  <pubDate>Tue, 18 Oct 2022 18:17:38 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/linux/network_problem/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Lg</title>
-  <link>/posts/script/lg/</link>
-  <pubDate>Tue, 18 Oct 2022 17:12:40 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/script/lg/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>F1</title>
-  <link>/posts/script/f1/</link>
-  <pubDate>Tue, 18 Oct 2022 17:01:57 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>/posts/script/f1/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
